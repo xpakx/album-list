@@ -29,7 +29,7 @@ def get_album_cover(id):
     if response.status_code == 200:
         data = response.json()
         if 'images' in data and data['images']:
-            return data['images'][0]['image']
+            return data['images'][0]['thumbnails']['500']
     return None
 
 
