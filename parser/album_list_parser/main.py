@@ -1,6 +1,7 @@
 from orgparse import load
 import re
 import json
+import argparse
 
 
 def getOrgData(filename):
@@ -34,13 +35,18 @@ def saveTo(data: str, filename: str):
 
 
 def main():
-    albums = getOrgData('data/albumy.org')
+    parser = argparse.ArgumentParser(description="Process some files.")
+    parser.add_argument('--out', type=str, default="output.json", help="Output file path (e.g., output.json)")
+    parser.add_argument('input_file', type=str, help="Input file path (e.g., input.org)")
+    args = parser.parse_args()
+
+    albums = getOrgData(args.input_file)
 
     print("Albums read:      ", len(albums))
     print("Last item number: ", albums[-1][0])
 
     jsonAlbums = toJson(albums, 4)
-    saveTo(jsonAlbums, 'data/albumy.json')
+    saveTo(jsonAlbums, args.out)
 
 
 if __name__ == "__main__":
