@@ -1,4 +1,8 @@
-all: data/albumy.json
+all: dist/albumy.json
+
+dist/albumy.json: data/albumy.json
+	@echo "Fetching album covers..."
+	python3 cover/cover/main.py
 
 data/albumy.json: data/albumy.org
 	@echo "Generating json from org-mode file..."
@@ -7,3 +11,4 @@ data/albumy.json: data/albumy.org
 clean:
 	@echo "Cleaning up..."
 	rm -f data/albumy.json
+	rm -f dist/albumy.json
