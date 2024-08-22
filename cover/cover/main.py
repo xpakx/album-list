@@ -1,5 +1,6 @@
 import json
 import requests
+from pathlib import Path
 
 USER_AGENT = "AlbumList/0.1 (github.com/xpakx/albums)"
 
@@ -48,12 +49,16 @@ def main():
         album['id'] = search_album(artist, title)
 
         if album['id']:
-            cover_url = get_album_cover(album['id'])
-            if cover_url:
-                filename = f"dist/{album['id']}.jpg"
-                download_image(cover_url, filename)
+            filename = f"dist/{album['id']}.jpg"
+            my_file = Path(filename)
+            if not my_file.exists():
+                cover_url = get_album_cover(album['id'])
+                if cover_url:
+                    download_image(cover_url, filename)
+                else:
+                    print(f"Cover art not found for {artist} - {title}")
             else:
-                print(f"Cover art not found for {artist} - {title}")
+                    print(f"Cover art is already downloaded for {artist} - {title}")
         else:
             print(f"Album not found in MusicBrainz for {artist} - {title}")
 
