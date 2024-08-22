@@ -2,12 +2,12 @@ import json
 import requests
 from pathlib import Path
 
-USER_AGENT = "AlbumList/0.1 (github.com/xpakx/albums)"
+USER_AGENT = "AlbumList/0.1 ( github.com/xpakx/albums )"
 
 
 def search_album(artist, title):
     url = "https://musicbrainz.org/ws/2/release/"
-    headers = { "User-Agent": USER_AGENT }
+    headers = {"User-Agent": USER_AGENT}
     params = {
         "query": f'artist:"{artist}" release:"{title}"',
         "fmt": "json",
@@ -23,7 +23,7 @@ def search_album(artist, title):
 
 def get_album_cover(id):
     url = f"https://coverartarchive.org/release/{id}"
-    headers = { "User-Agent": USER_AGENT }
+    headers = {"User-Agent": USER_AGENT}
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
@@ -55,18 +55,19 @@ def getCached(filename):
             return json.load(f)
     return {}
 
+
 def getCachedAlbum(cached, album):
     for cached_album in cached:
         if album['artist'] == cached_album['artist'] and album['title'] == cached_album['title'] and 'id' in cached_album:
             return cached_album['id']
     return None
-        
+
 
 def main():
     with open('data/albumy.json') as f:
         albums = json.load(f)
     cached = getCached('dist/albumy.json')
-    
+
     for album in albums:
         artist = album['artist']
         title = album['title']
@@ -82,19 +83,19 @@ def main():
 
         if album['id']:
             filename = f"dist/{album['id']}.jpg"
-            my_file = Path(filename)
-            if not my_file.exists():
+            cover_file = Path(filename)
+            if not cover_file.exists():
                 cover_url = get_album_cover(album['id'])
                 if cover_url:
                     download_image(cover_url, filename)
                 else:
                     print(f"Cover art not found for {artist} - {title}")
             else:
-                    print(f"Cover art is already downloaded for {artist} - {title}")
+                print(f"Cover art is already downloaded for {artist} - {title}")
         else:
             print(f"Album not found in MusicBrainz for {artist} - {title}")
 
-    saveTo(json.dumps(albums), "dist/albumy.json");
+    saveTo(json.dumps(albums), "dist/albumy.json")
 
 
 if __name__ == "__main__":
