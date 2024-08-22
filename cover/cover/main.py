@@ -1,6 +1,7 @@
 import json
 import requests
 from pathlib import Path
+import time
 
 USER_AGENT = "AlbumList/0.1 ( github.com/xpakx/albums )"
 
@@ -80,14 +81,19 @@ def main():
 
         print(f"Fetching id for {artist} - {title}...")
         album['id'] = search_album(artist, title)
+        time.sleep(1)
 
         if album['id']:
             filename = f"dist/{album['id']}.jpg"
             cover_file = Path(filename)
             if not cover_file.exists():
+                print(f"Getting album cover url for {artist} - {title}...")
                 cover_url = get_album_cover(album['id'])
+                time.sleep(1)
                 if cover_url:
+                    print(f"Saving album cover for {artist} - {title}...")
                     download_image(cover_url, filename)
+                    time.sleep(1)
                 else:
                     print(f"Cover art not found for {artist} - {title}")
             else:
