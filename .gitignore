@@ -1,2 +1,4 @@
 data/
 dist/
+page/public/*.jpg
+page/src/data

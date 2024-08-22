@@ -1,16 +1,91 @@
 ---
-
+import Layout from '../layouts/Layout.astro';
+import albums from '../data/albumy.json'
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Albums">
+    <main>
+        <h1>My Top 30 Albums of the Year</h1>
+        <ol id="album-list">
+	{
+		albums.slice(0, 30).map(({ artist, title, id }) => (
+
+		    <li class="album">
+			<img src={`${id ? id : "empty"}.jpg`} alt="Album Cover">
+			<div class="album-info">
+			    <h2>{title}</h2>
+			    <p>{artist}</p>
+			</div>
+		    </li>
+	))
+	}
+        </ol>
+    </main>
+</Layout>
+
+<style>
+	#album-list {
+	    max-width: 1200px;
+	    margin: 0 auto;
+	    padding: 20px;
+	    list-style: none;
+	}
+
+	h1 {
+	    text-align: center;
+	    color: #333;
+	    margin-bottom: 40px;
+	}
+
+	.album {
+	    background-color: #fff;
+	    border-radius: 8px;
+	    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	    overflow: hidden;
+	    width: calc(100% - 20px);
+	    transition: transform 0.3s ease;
+	    margin-bottom: 20px;
+	    display: flex;
+	}
+
+	.album img {
+		width: 150px;
+	}
+
+	.album-info {
+	    padding: 15px;
+	}
+
+	.album-info h2 {
+	    font-size: 18px;
+	    color: #333;
+	    margin: 10px 0 5px;
+	}
+
+	.album-info p {
+	    font-size: 14px;
+	    color: #777;
+	}
+
+	.album:hover {
+	    transform: translateX(-5px);
+	}
+
+	@media (max-width: 768px) {
+	    .album {
+	    }
+	}
+
+	@media (max-width: 480px) {
+	    .album {
+		    flex-direction: column;
+		    text-align: center;
+	    }
+
+	    .album img {
+		    width: 100%;
+	    }
+	}
+
+</style>
+
