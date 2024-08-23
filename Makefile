@@ -1,9 +1,4 @@
-all: page/src/data/albumy.json
-
-page/src/data/albumy.json: dist/albumy.json
-	@echo "Moving data to webpage..."
-	cp dist/albumy.json page/src/data/
-	cp dist/*.jpg page/public/
+all: dist/albumy.json
 
 dist/albumy.json: data/albumy.json
 	@echo "Fetching album covers..."
