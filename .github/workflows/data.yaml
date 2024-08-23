@@ -105,3 +105,10 @@ jobs:
         working-directory: ./build/page
         run: npm run build
 
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ID }}
+          projectName: albumina
+          directory: build/page/dist
