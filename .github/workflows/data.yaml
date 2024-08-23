@@ -15,8 +15,8 @@ jobs:
 
       - name: Install python dependencies
         run: |
-        python3 -m pip install --upgrade pip
-        python3 -m pip install orgparse
+          python3 -m pip install --upgrade pip
+          python3 -m pip install orgparse
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
