@@ -64,6 +64,12 @@ def getCachedAlbum(cached, album):
     return None
 
 
+def checkFile(id):
+    filename = f"dist/{id}.jpg"
+    cover_file = Path(filename)
+    return cover_file.exists()
+
+
 def main():
     with open('data/albumy.json') as f:
         albums = json.load(f)
@@ -77,6 +83,7 @@ def main():
         if cached_id:
             print(f"Using cached id for {artist} - {title}...")
             album['id'] = cached_id
+            album['image'] = album['image'] if 'image' in album else checkFile(album['id'])
             continue
 
         print(f"Fetching id for {artist} - {title}...")
@@ -93,12 +100,16 @@ def main():
                 if cover_url:
                     print(f"Saving album cover for {artist} - {title}...")
                     download_image(cover_url, filename)
+                    album['image'] = True
                     time.sleep(1)
                 else:
+                    album['image'] = False
                     print(f"Cover art not found for {artist} - {title}")
             else:
+                album['image'] = True
                 print(f"Cover art is already downloaded for {artist} - {title}")
         else:
+            album['image'] = False
             print(f"Album not found in MusicBrainz for {artist} - {title}")
 
     saveTo(json.dumps(albums), "dist/albumy.json")
