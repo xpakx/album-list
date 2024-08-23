@@ -1,0 +1,51 @@
+name: Creating data
+run-name: creating data
+on: 
+  push:
+    branches:
+      - data
+jobs:
+  Prepare-Data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install python dependencies
+        run: |
+        python3 -m pip install --upgrade pip
+        python3 -m pip install orgparse
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+            node-version: '20.x'
+
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          path: build
+
+      - name: Checkout data
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+
+      - name: Copy org data
+        run: cp data/data build/data
+
+      - name: Move cached data
+        run: mv data/dist build/dist
+
+      - name: Build
+        working-directory: ./build
+        run: make
+
+      - name: Move updated cached data back
+        run: mv build/dist data/dist
+
+      - name: Test
+        run: tree -L 3
