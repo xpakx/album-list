@@ -93,6 +93,7 @@ jobs:
         run: |
           mkdir -p build/page/public/
           cp -r data/dist/*.jpg build/page/public/
+          cp -r data/data/cover.jpg build/page/public/
 
       - name: Debug
         run: tree -L 3
