@@ -8,10 +8,10 @@ import albums from '../data/albumy.json'
         <h1>My Top 30 Albums of the Year</h1>
         <ol id="album-list">
 	{
-		albums.slice(0, 30).map(({ artist, title, id }) => (
+		albums.slice(0, 30).map(({ artist, title, id, image }) => (
 
 		    <li class="album">
-			<img src={`${id ? id : "empty"}.jpg`} alt="Album Cover">
+			<img src={`${image ? id : "empty"}.jpg`} alt="Album Cover">
 			<div class="album-info">
 			    <h2>{title}</h2>
 			    <p>{artist}</p>
