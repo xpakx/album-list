@@ -89,6 +89,9 @@ def main():
             continue
 
         print(f"New album: {artist} - {title}.")
+        album['rated_at'] = datetime.today().strftime('%d-%m-%Y')
+        print(f"Rating date: {album['rated_at']}")
+
         print("Fetching id...")
         album['id'] = search_album(artist, title)
         time.sleep(1)
