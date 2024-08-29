@@ -82,10 +82,12 @@ def main():
 
         cached_album = getCachedAlbum(cached, album)
         cached_id = cached_album['id'] if cached_album else None
-        if cached_id:
+        if cached_album:
             print(f"Using cached id for {artist} - {title}...")
             album['id'] = cached_id
-            album['image'] = album['image'] if 'image' in album else checkFile(album['id'])
+            album['image'] = cached_album['image'] if 'image' in cached_album else checkFile(album['id'])
+            if 'rated_at' in cached_album:
+                album['rated_at'] = cached_album['rated_at']
             continue
 
         print(f"New album: {artist} - {title}.")
