@@ -122,7 +122,7 @@ def main():
             album['image'] = False
             print("Album not found in MusicBrainz")
 
-    saveTo(json.dumps(albums), "dist/albumy.json")
+    saveTo(json.dumps(albums, indent=4), "dist/albumy.json")
 
 
 if __name__ == "__main__":
