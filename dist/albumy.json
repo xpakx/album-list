@@ -140,7 +140,6 @@
         "artist": "Julius Gabriel",
         "title": "Tales from the Subterranean",
         "rating": "6",
-        "rated_at": "29-08-2024",
         "id": null,
         "image": false
     },
@@ -173,7 +172,6 @@
         "artist": "Maria Pomianowska & Friends",
         "title": "Dance of Suka",
         "rating": "6",
-        "rated_at": "29-08-2024",
         "id": null,
         "image": false
     },
@@ -494,8 +492,8 @@
         "artist": "Kr\u00f3lestwo",
         "title": "Patho-Jazz",
         "rating": "5",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "63",
@@ -566,16 +564,16 @@
         "artist": "\u8868\u60c5\u94f6\u884c[Mimik Banka]",
         "title": "\u6d77\u9a6c\u68ee\u6797(Seahorse Forest)",
         "rating": "5",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "72",
         "artist": "Ringorrango",
         "title": "Bailar\u00e1s en mi verbena",
         "rating": "5",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "73",
@@ -630,8 +628,8 @@
         "artist": "Taut & Tame",
         "title": "Rosy Crucifixion",
         "rating": "5",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "80",
@@ -654,8 +652,8 @@
         "artist": "Ghost In The Tapes",
         "title": "Holidays On Earth",
         "rating": "4",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "83",
@@ -694,8 +692,8 @@
         "artist": "Blues Pills",
         "title": "Birthday",
         "rating": "4",
-        "id": "9c8cae47-397c-4300-bc99-ba87922efb18",
-        "image": false
+        "rated_at": "29-08-2024",
+        "id": "9eb2924f-ddba-4447-a365-070a298c68d5"
     },
     {
         "number": "88",
@@ -710,8 +708,8 @@
         "artist": "Kimbanourke",
         "title": "Binjari",
         "rating": "4",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "90",
@@ -750,8 +748,8 @@
         "artist": "Claire Ozmun",
         "title": "Dying in the Wool",
         "rating": "4",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "95",
@@ -798,8 +796,8 @@
         "artist": "cayce crane",
         "title": "Jidaigeki Groove",
         "rating": "4",
-        "rated_at": "29-08-2024",
-        "id": null
+        "id": null,
+        "image": false
     },
     {
         "number": "101",
