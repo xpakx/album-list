@@ -45,7 +45,7 @@ def main():
     print("Albums read:      ", len(albums))
     print("Last item number: ", albums[-1][0])
 
-    jsonAlbums = toJson(albums[:30], 4)
+    jsonAlbums = toJson(albums, 4)
     saveTo(jsonAlbums, args.out)
 
 

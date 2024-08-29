@@ -2,6 +2,7 @@ import json
 import requests
 from pathlib import Path
 import time
+from datetime import datetime
 
 USER_AGENT = "AlbumList/0.1 ( github.com/xpakx/albums )"
 
@@ -60,7 +61,7 @@ def getCached(filename):
 def getCachedAlbum(cached, album):
     for cached_album in cached:
         if album['artist'] == cached_album['artist'] and album['title'] == cached_album['title'] and 'id' in cached_album:
-            return cached_album['id']
+            return cached_album
     return None
 
 
@@ -79,38 +80,44 @@ def main():
         artist = album['artist']
         title = album['title']
 
-        cached_id = getCachedAlbum(cached, album)
+        cached_album = getCachedAlbum(cached, album)
+        cached_id = cached_album['id'] if cached_album else None
         if cached_id:
             print(f"Using cached id for {artist} - {title}...")
             album['id'] = cached_id
             album['image'] = album['image'] if 'image' in album else checkFile(album['id'])
             continue
 
-        print(f"Fetching id for {artist} - {title}...")
+        print(f"New album: {artist} - {title}.")
+        print("Fetching id...")
         album['id'] = search_album(artist, title)
         time.sleep(1)
+
+        if int(album['number']) > 30:
+            print("Position is beyond the first 30 items. Skipping cover fetching...")
+            continue
 
         if album['id']:
             filename = f"dist/{album['id']}.jpg"
             cover_file = Path(filename)
             if not cover_file.exists():
-                print(f"Getting album cover url for {artist} - {title}...")
+                print("Getting album cover url...")
                 cover_url = get_album_cover(album['id'])
                 time.sleep(1)
                 if cover_url:
-                    print(f"Saving album cover for {artist} - {title}...")
+                    print(f"Saving album cover in dist/{album['id']}...")
                     download_image(cover_url, filename)
                     album['image'] = True
                     time.sleep(1)
                 else:
                     album['image'] = False
-                    print(f"Cover art not found for {artist} - {title}")
+                    print("Cover art not found")
             else:
                 album['image'] = True
-                print(f"Cover art is already downloaded for {artist} - {title}")
+                print("Cover art is already downloaded")
         else:
             album['image'] = False
-            print(f"Album not found in MusicBrainz for {artist} - {title}")
+            print("Album not found in MusicBrainz")
 
     saveTo(json.dumps(albums), "dist/albumy.json")
 
