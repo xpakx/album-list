@@ -692,8 +692,9 @@
         "artist": "Blues Pills",
         "title": "Birthday",
         "rating": "4",
-        "rated_at": "29-08-2024",
-        "id": "9eb2924f-ddba-4447-a365-070a298c68d5"
+        "id": "9eb2924f-ddba-4447-a365-070a298c68d5",
+        "image": false,
+        "rated_at": "29-08-2024"
     },
     {
         "number": "88",
