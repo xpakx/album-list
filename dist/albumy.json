@@ -692,10 +692,11 @@
     {
         "number": "87",
         "artist": "Blues Pills",
-        "title": "Birthday (2024)",
+        "title": "Birthday",
         "rating": "4",
         "id": "9c8cae47-397c-4300-bc99-ba87922efb18",
-        "image": false
+        "image": false,
+	"rated_at": "29-08-2024"
     },
     {
         "number": "88",
