@@ -4,6 +4,7 @@
         "artist": "Julia Holter",
         "title": "Something in the Room She Moves",
         "rating": "7",
+        "listens": "11",
         "id": "bcfd49e6-a6fa-4d26-af05-12264fa664e2",
         "image": true
     },
@@ -12,6 +13,7 @@
         "artist": "Amaro Freitas",
         "title": "Y'Y",
         "rating": "7",
+        "listens": "11",
         "id": "2fa18501-371e-4cfe-8e2d-afcb47a80fda",
         "image": true
     },
@@ -20,6 +22,7 @@
         "artist": "Mary Halvorson",
         "title": "Cloudward",
         "rating": "7",
+        "listens": "8",
         "id": "07d0e952-d941-4f2e-9f3a-cbb3b7e84c85",
         "image": true
     },
@@ -28,6 +31,7 @@
         "artist": "Nina Reiter's MetaLogue",
         "title": "evolving",
         "rating": "7",
+        "listens": "1",
         "id": "metalogue2024",
         "image": true
     },
@@ -36,6 +40,7 @@
         "artist": "Ana Lua Caiano",
         "title": "Vou ficar neste quadrado",
         "rating": "7",
+        "listens": "10",
         "id": "4de24744-c81a-4ff1-8b66-a1b641fec78a",
         "image": true
     },
@@ -44,6 +49,7 @@
         "artist": "Beth Gibbons",
         "title": "Lives Outgrown",
         "rating": "7",
+        "listens": "5",
         "id": "0675dcfd-412a-4bf5-a082-12adab188c14",
         "image": true
     },
@@ -52,6 +58,7 @@
         "artist": "Jessica Pratt",
         "title": "Here in The Pitch",
         "rating": "7",
+        "listens": "3",
         "id": "37ec603f-2306-496f-8c42-18bac07a8a8c",
         "image": true
     },
@@ -60,6 +67,7 @@
         "artist": "xenharmonic gamelan",
         "title": "xeharmonic gamelan",
         "rating": "7",
+        "listens": "1",
         "id": "xenharmonic2024",
         "image": true
     },
@@ -68,6 +76,7 @@
         "artist": "Bianca Scout",
         "title": "Pattern Damage",
         "rating": "7",
+        "listens": "7",
         "id": "a7a30e57-065d-4aca-8696-18663149fd98",
         "image": true
     },
@@ -76,6 +85,7 @@
         "artist": "Takkak Takkak",
         "title": "Takkak Takkak",
         "rating": "7",
+        "listens": "2",
         "id": "8af9e2ec-692b-4806-b78a-8f590cfbf978",
         "image": true
     },
@@ -84,6 +94,7 @@
         "artist": "Weronika Grozdew & Musos",
         "title": "Wandering Songs",
         "rating": "7",
+        "listens": "1",
         "id": "wanderingsongs2024",
         "image": true
     },
@@ -92,6 +103,7 @@
         "artist": "Raphael Rogi\u0144ski",
         "title": "\u017daltys",
         "rating": "7",
+        "listens": "1",
         "id": "2891cfb2-adb8-400d-b7f2-e8c7b05f5e5d",
         "image": true
     },
@@ -100,6 +112,7 @@
         "artist": "Hakushi Hasegawa",
         "title": "Mah\u200b\u014d\u200bgakk\u014d",
         "rating": "7",
+        "listens": "1",
         "id": "mahogakko2024",
         "image": true
     },
@@ -108,6 +121,7 @@
         "artist": "JPEGMAFIA",
         "title": "I Lay Down My Life for You",
         "rating": "7",
+        "listens": "12",
         "id": "0481bb01-4cc6-4b47-acad-4b289d18d5fc",
         "image": true
     },
@@ -116,6 +130,7 @@
         "artist": "Kim Gordon",
         "title": "The Collective",
         "rating": "7",
+        "listens": "1",
         "id": "a294dc23-c81c-46c0-b1ee-06ac42fbdf7f",
         "image": true
     },
@@ -124,6 +139,7 @@
         "artist": "Iglooghost",
         "title": "Tidal Memory Exo",
         "rating": "7",
+        "listens": "1",
         "id": "d96da91e-5e3b-4798-8ad0-60f9c3273db2",
         "image": true
     },
@@ -132,6 +148,7 @@
         "artist": "Various Artists",
         "title": "Ulyap Songs: Beyond Circassian Tradition",
         "rating": "7",
+        "listens": "1",
         "id": "ulyap2024",
         "image": true
     },
@@ -140,6 +157,7 @@
         "artist": "Julius Gabriel",
         "title": "Tales from the Subterranean",
         "rating": "6",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -148,6 +166,7 @@
         "artist": "Chelsea Wolfe",
         "title": "She Reaches Out to She Reaches Out to She",
         "rating": "6",
+        "listens": "1",
         "id": "33922aab-40f8-4d43-8d1c-7693562f784e",
         "image": true
     },
@@ -156,6 +175,7 @@
         "artist": "Lolina",
         "title": "Unrecognisable",
         "rating": "6",
+        "listens": "1",
         "id": "161e5b86-6850-4857-b2fb-d4fa3d6b40d6",
         "image": true
     },
@@ -164,6 +184,7 @@
         "artist": "James Blake & Lil Yachty",
         "title": "Bad Cameo",
         "rating": "6",
+        "listens": "1",
         "id": "4edc8a9f-2e3e-4e2b-a8b0-cbf3b89a2a92",
         "image": true
     },
@@ -172,6 +193,7 @@
         "artist": "Maria Pomianowska & Friends",
         "title": "Dance of Suka",
         "rating": "6",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -180,6 +202,7 @@
         "artist": "Mamaleek",
         "title": "Vida Blue",
         "rating": "6",
+        "listens": "1",
         "id": "8444e5f5-0300-4a5e-b361-dad27ba071ec",
         "image": true
     },
@@ -188,6 +211,7 @@
         "artist": "Malcolm Jiyane Tree-O",
         "title": "TRUE STORY",
         "rating": "6",
+        "listens": "1",
         "id": "aa981051-f189-43d5-a874-222b829d4b69",
         "image": true
     },
@@ -196,6 +220,7 @@
         "artist": "Mabe Fratti",
         "title": "Sentir que no sabes",
         "rating": "7",
+        "listens": "7",
         "id": "5fd3377d-59e6-48e9-9249-c1117b759def",
         "image": true
     },
@@ -204,6 +229,7 @@
         "artist": "Tess Hirst",
         "title": "HERstory",
         "rating": "6",
+        "listens": "2",
         "id": "44fc1439-45ef-4562-8a8e-09f99c11e741",
         "image": true
     },
@@ -212,6 +238,7 @@
         "artist": "bela",
         "title": "Noise and Cries (\u200b\u200b\u200b\uad49\u200b\u200b\u200b\uc74c\u200b\u200b\u200b\uacfc \uc6b8\u200b\u200b\u200b\uc74c\u200b\u200b\u200b)",
         "rating": "6",
+        "listens": "1",
         "id": "a8d7e3fa-44fd-4ad3-aad0-3fb2b8134155",
         "image": true
     },
@@ -220,6 +247,7 @@
         "artist": "Vera Sola",
         "title": "Peacemaker",
         "rating": "6",
+        "listens": "3",
         "id": "a9cdc3be-495b-4171-be9f-748721f9a62f",
         "image": true
     },
@@ -228,6 +256,7 @@
         "artist": "Arooj Aftab",
         "title": "Night Reign",
         "rating": "6",
+        "listens": "1",
         "id": "8b37d430-29fe-4af4-8e5b-2acfe28022dd",
         "image": false
     },
@@ -236,6 +265,7 @@
         "artist": "Mdou Moctar",
         "title": "Funeral for Justice",
         "rating": "6",
+        "listens": "1",
         "id": "1dc5b004-7571-4baa-b3cb-7176e09dccb2",
         "image": true
     },
@@ -244,6 +274,7 @@
         "artist": "Jlin",
         "title": "Akoma",
         "rating": "6",
+        "listens": "1",
         "id": "b1d5e79f-9c56-4ca8-86f2-4bffc9edeac5",
         "image": false
     },
@@ -252,6 +283,7 @@
         "artist": "Amy Gadiaga",
         "title": "All Black Everything",
         "rating": "6",
+        "listens": "5",
         "id": "91f87bba-5e20-4878-88f3-c6f700fccafb",
         "image": false
     },
@@ -260,6 +292,7 @@
         "artist": "Milkweed",
         "title": "Folklore 1979",
         "rating": "6",
+        "listens": "1",
         "id": "3631cfe4-e9aa-4ddf-866b-734de3ca15a9",
         "image": false
     },
@@ -268,6 +301,7 @@
         "artist": "Antonina Nowacka",
         "title": "Sylphine Soporifera",
         "rating": "6",
+        "listens": "3",
         "id": "6ec6255f-1f1e-446a-aef4-82c856c45cdd",
         "image": false
     },
@@ -276,6 +310,7 @@
         "artist": "Mohammad Syfkhan",
         "title": "I Am Kurdish",
         "rating": "6",
+        "listens": "2",
         "id": "10064064-31ad-453a-95ca-18a8850628e8",
         "image": false
     },
@@ -284,6 +319,7 @@
         "artist": "Armand Hammer",
         "title": "BLK LBL",
         "rating": "6",
+        "listens": "1",
         "id": "6b34b820-3529-483a-acf4-7b7f1e34cbd1",
         "image": false
     },
@@ -292,6 +328,7 @@
         "artist": "Kessoncoda",
         "title": "Outerstate",
         "rating": "6",
+        "listens": "1",
         "id": "6c161d9f-1351-4b0c-84f2-393da8d6ad30",
         "image": false
     },
@@ -300,6 +337,7 @@
         "artist": "Amanda Whiting",
         "title": "The Liminality Of Her",
         "rating": "6",
+        "listens": "5",
         "id": "4d3d825d-ca04-43b1-902c-daa72b1bf710",
         "image": false
     },
@@ -308,6 +346,7 @@
         "artist": "Magdalena Bay",
         "title": "Imaginal Disk",
         "rating": "6",
+        "listens": "4",
         "id": "acad6b60-2b75-425a-ae50-0900ac45dda4",
         "image": false
     },
@@ -316,6 +355,7 @@
         "artist": "Raveena",
         "title": "Where the Butterflies Go in the Rain",
         "rating": "6",
+        "listens": "3",
         "id": "1b49bfac-157b-41bb-880e-62b80bfb7cb3",
         "image": false
     },
@@ -324,6 +364,7 @@
         "artist": "Aziza Brahim",
         "title": "Mawja",
         "rating": "6",
+        "listens": "1",
         "id": "7dbab857-109a-4850-a8bb-0115bd98d595",
         "image": false
     },
@@ -332,6 +373,7 @@
         "artist": "Mary Ocher",
         "title": "Your Guide to Revolution",
         "rating": "6",
+        "listens": "1",
         "id": "53a62c92-9f1e-4034-81a8-a66c524b99d1",
         "image": false
     },
@@ -340,6 +382,7 @@
         "artist": "Al Wootton",
         "title": "Lifted From the Earth",
         "rating": "6",
+        "listens": "1",
         "id": "d7b586d3-4075-485a-85b2-e34b8321875f",
         "image": false
     },
@@ -348,6 +391,7 @@
         "artist": "Bagus Shidqi",
         "title": "Njondhal Njondhil",
         "rating": "6",
+        "listens": "1",
         "id": "38aba9aa-2d7c-480c-a765-0b63155466b3",
         "image": false
     },
@@ -356,6 +400,7 @@
         "artist": "Clarissa Connelly",
         "title": "World of Work",
         "rating": "6",
+        "listens": "1",
         "id": "aec32878-a5f2-48af-9a4d-a696eecba0e6",
         "image": false
     },
@@ -364,6 +409,7 @@
         "artist": "yuzuha",
         "title": "Love Notes",
         "rating": "6",
+        "listens": "3",
         "id": "7351386b-e7c7-4cf4-a0bb-daf29e68257b",
         "image": false
     },
@@ -372,6 +418,7 @@
         "artist": "Lupe Fiasco",
         "title": "Samurai",
         "rating": "6",
+        "listens": "1",
         "id": "58d7b1a2-11e7-4a8c-91f2-e6b75d0ee88c",
         "image": false
     },
@@ -380,6 +427,7 @@
         "artist": "Raven Lenae",
         "title": "Bird's Eye",
         "rating": "6",
+        "listens": "2",
         "id": "9bab1d2e-d11b-4ba9-9912-ff0d0422fa8a",
         "image": false
     },
@@ -388,6 +436,7 @@
         "artist": "Ulcerate",
         "title": "Cutting the Throat of God",
         "rating": "6",
+        "listens": "2",
         "id": "60a074df-aff7-411d-b8cb-a0a3635e68fc",
         "image": false
     },
@@ -396,6 +445,7 @@
         "artist": "Skee Mask",
         "title": "Resort",
         "rating": "5",
+        "listens": "1",
         "id": "f711ca46-c1fe-4c18-ae53-f747d0e33591",
         "image": false
     },
@@ -404,6 +454,7 @@
         "artist": "Allie X",
         "title": "Girl With No Face",
         "rating": "5",
+        "listens": "1",
         "id": "b6af33c3-eba3-4aa6-a23b-050c2232ffd8",
         "image": false
     },
@@ -412,6 +463,7 @@
         "artist": "L-R",
         "title": "V.O.S.",
         "rating": "5",
+        "listens": "1",
         "id": "d4fe0795-af29-4266-99ed-fe51029d9c0a",
         "image": false
     },
@@ -420,6 +472,7 @@
         "artist": "Peggy Gou",
         "title": "I Hear You",
         "rating": "5",
+        "listens": "2",
         "id": "d517b6f1-e105-481e-aaa4-740e6e4cb95d",
         "image": false
     },
@@ -428,6 +481,7 @@
         "artist": "Hamish Hawk",
         "title": "A Firmer Hand",
         "rating": "5",
+        "listens": "1",
         "id": "2ccfde6c-1c19-48a1-a09b-e5d2b2208747",
         "image": false
     },
@@ -436,6 +490,7 @@
         "artist": "Pixey",
         "title": "Million Dollar Baby",
         "rating": "5",
+        "listens": "1",
         "id": "f77a34d2-c27c-4a4a-b171-588743edb4ab",
         "image": false
     },
@@ -444,6 +499,7 @@
         "artist": "St. Vincent",
         "title": "All Born Screaming",
         "rating": "5",
+        "listens": "1",
         "id": "a2cae62d-0a60-48cf-bc65-3f6f979cecfe",
         "image": false
     },
@@ -452,6 +508,7 @@
         "artist": "Kee Avil",
         "title": "Spine",
         "rating": "5",
+        "listens": "1",
         "id": "6cbfbeef-9955-49de-8d6b-eef4d9f6dc05",
         "image": false
     },
@@ -460,6 +517,7 @@
         "artist": "Rachel Newton",
         "title": "Sealladh",
         "rating": "5",
+        "listens": "1",
         "id": "38709460-f168-4fbb-b45f-28010644625a",
         "image": false
     },
@@ -468,6 +526,7 @@
         "artist": "Everything Everything",
         "title": "Moutainhead",
         "rating": "5",
+        "listens": "1",
         "id": "6046a3a0-ea9c-477e-b4a2-e5480d3bdf83",
         "image": false
     },
@@ -476,6 +535,7 @@
         "artist": "Marika Hackman",
         "title": "Big Sigh",
         "rating": "5",
+        "listens": "1",
         "id": "289ae8c7-ab5e-4e96-8d38-2056cf29d5ff",
         "image": false
     },
@@ -484,6 +544,7 @@
         "artist": "Ani DiFranco",
         "title": "Unprecedented Sh\u200b!\u200bt",
         "rating": "5",
+        "listens": "1",
         "id": "c59ec315-a81f-44c0-a84a-472e0078bfec",
         "image": false
     },
@@ -492,6 +553,7 @@
         "artist": "Kr\u00f3lestwo",
         "title": "Patho-Jazz",
         "rating": "5",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -500,6 +562,7 @@
         "artist": "Oval Angle",
         "title": "Figures of Speech",
         "rating": "5",
+        "listens": "1",
         "id": "2fc3c24c-5272-4d72-8a16-4b8c971f6c2f",
         "image": false
     },
@@ -508,6 +571,7 @@
         "artist": "Kiasmos",
         "title": "II",
         "rating": "5",
+        "listens": "1",
         "id": "5d54d61d-8532-40bd-8da0-f91b852a4069",
         "image": false
     },
@@ -516,6 +580,7 @@
         "artist": "Clairo",
         "title": "Charm",
         "rating": "5",
+        "listens": "1",
         "id": "29b63024-d931-410e-bbf1-068379e05555",
         "image": false
     },
@@ -524,6 +589,7 @@
         "artist": "Cassandra Jenkins",
         "title": "My Light, My Destroyer",
         "rating": "5",
+        "listens": "1",
         "id": "135b3a2b-80a3-407e-ad72-c10ef04242dc",
         "image": false
     },
@@ -532,6 +598,7 @@
         "artist": "Kamixlo",
         "title": "DEATHWORK",
         "rating": "5",
+        "listens": "1",
         "id": "39723d0f-88a1-46bb-b2ad-b7b3e49d08c1",
         "image": false
     },
@@ -540,6 +607,7 @@
         "artist": "Rosie Lowe",
         "title": "Lover, Other",
         "rating": "5",
+        "listens": "1",
         "id": "69fa0044-7915-4d3e-a0d1-ec6579a08599",
         "image": false
     },
@@ -548,6 +616,7 @@
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Flight b741",
         "rating": "5",
+        "listens": "1",
         "id": "ef612160-0fa4-4e77-94d0-87e6e4b9ab7b",
         "image": false
     },
@@ -556,6 +625,7 @@
         "artist": "Dua Lipa",
         "title": "Radical Optimism",
         "rating": "5",
+        "listens": "1",
         "id": "fbfb68b3-6efa-4fa4-89eb-f41acef361af",
         "image": false
     },
@@ -564,6 +634,7 @@
         "artist": "\u8868\u60c5\u94f6\u884c[Mimik Banka]",
         "title": "\u6d77\u9a6c\u68ee\u6797(Seahorse Forest)",
         "rating": "5",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -572,6 +643,7 @@
         "artist": "Ringorrango",
         "title": "Bailar\u00e1s en mi verbena",
         "rating": "5",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -580,6 +652,7 @@
         "artist": "Tyla",
         "title": "TYLA",
         "rating": "5",
+        "listens": "1",
         "id": "a6ec8576-f6ee-47ce-a4f8-f0394310ad5a",
         "image": false
     },
@@ -588,6 +661,7 @@
         "artist": "Patricia Taxxon",
         "title": "Bicycle",
         "rating": "5",
+        "listens": "1",
         "id": "b9e1e65d-2461-4e80-b05e-102ea626dc8c",
         "image": false
     },
@@ -596,6 +670,7 @@
         "artist": "Chuck Johnson",
         "title": "Sun Glories",
         "rating": "5",
+        "listens": "1",
         "id": "fe264d4c-36b0-417c-a494-af2b7d29d604",
         "image": false
     },
@@ -604,6 +679,7 @@
         "artist": "Ibibio Sound Machine",
         "title": "Pull the Rope",
         "rating": "5",
+        "listens": "1",
         "id": "62de7def-ebab-4f34-8c54-a42309f0b15e",
         "image": false
     },
@@ -612,6 +688,7 @@
         "artist": "The Smile",
         "title": "Wall of Eyes",
         "rating": "5",
+        "listens": "1",
         "id": "3257bcb3-c997-485b-8303-6bfefbf0b227",
         "image": false
     },
@@ -620,6 +697,7 @@
         "artist": "Adrianne Lenker",
         "title": "Bright Future",
         "rating": "5",
+        "listens": "1",
         "id": "2cee7f4a-f625-48cc-a820-911ab6d679ed",
         "image": false
     },
@@ -628,6 +706,7 @@
         "artist": "Taut & Tame",
         "title": "Rosy Crucifixion",
         "rating": "5",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -636,6 +715,7 @@
         "artist": "Kamasi Washington",
         "title": "Fearless Movement",
         "rating": "4",
+        "listens": "1",
         "id": "71ee0310-bbb6-4bea-a860-d244b891314a",
         "image": false
     },
@@ -644,6 +724,7 @@
         "artist": "Kanye West & Ty Dolla $ign",
         "title": "Vultures",
         "rating": "4",
+        "listens": "1",
         "id": "58da0ff9-cd4c-4d8d-88b2-9604879e2c04",
         "image": false
     },
@@ -652,6 +733,7 @@
         "artist": "Ghost In The Tapes",
         "title": "Holidays On Earth",
         "rating": "4",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -660,6 +742,7 @@
         "artist": "Brijean",
         "title": "Macro",
         "rating": "4",
+        "listens": "1",
         "id": "9b367109-8d17-4539-986a-36320aba320e",
         "image": false
     },
@@ -668,6 +751,7 @@
         "artist": "Vampire Weekend ",
         "title": "Only God Was Above Us",
         "rating": "4",
+        "listens": "1",
         "id": "66e100e3-4751-4580-9359-319e1c8e4845",
         "image": false
     },
@@ -676,6 +760,7 @@
         "artist": "Joanna Wang",
         "title": "\u7834\u721b\u9152\u5e97 (Hotel la Rut)",
         "rating": "4",
+        "listens": "1",
         "id": "f9ac3abe-7042-46b2-8671-163ef555843c",
         "image": false
     },
@@ -684,6 +769,7 @@
         "artist": "samlrc",
         "title": "A Lonely Sinner",
         "rating": "4",
+        "listens": "1",
         "id": "e6d2de3f-fbb9-4559-8d23-eecdeb9c422e",
         "image": false
     },
@@ -692,6 +778,7 @@
         "artist": "Blues Pills",
         "title": "Birthday",
         "rating": "4",
+        "listens": "1",
         "id": "9eb2924f-ddba-4447-a365-070a298c68d5",
         "image": false,
         "rated_at": "29-08-2024"
@@ -701,6 +788,7 @@
         "artist": "J.R.C.G.",
         "title": "Grim Iconic\u200b.\u200b.\u200b.\u200b(\u200bSadistic Mantra)",
         "rating": "4",
+        "listens": "1",
         "id": "0c63f64e-3a69-4459-a0ba-45b3cc1d8a1b",
         "image": false
     },
@@ -709,6 +797,7 @@
         "artist": "Kimbanourke",
         "title": "Binjari",
         "rating": "4",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -717,6 +806,7 @@
         "artist": "NxWorries",
         "title": "Why Lawd?",
         "rating": "4",
+        "listens": "1",
         "id": "cbe260d7-7a3c-4709-80a4-6f968e5f911f",
         "image": false
     },
@@ -725,6 +815,7 @@
         "artist": "Thee Marloes",
         "title": "Perak",
         "rating": "4",
+        "listens": "1",
         "id": "c6df1069-69c0-4cfb-9dbb-92293feb2329",
         "image": false
     },
@@ -733,6 +824,7 @@
         "artist": "Charli XCX",
         "title": "brat",
         "rating": "4",
+        "listens": "1",
         "id": "ab55ac76-eee5-4f89-ac14-7bb9aa837bc8",
         "image": false
     },
@@ -741,6 +833,7 @@
         "artist": "Sarah Jarosz",
         "title": "Polaroid Lovers",
         "rating": "4",
+        "listens": "1",
         "id": "e443a397-04b4-41d8-8a05-a81d3dd54268",
         "image": false
     },
@@ -749,6 +842,7 @@
         "artist": "Claire Ozmun",
         "title": "Dying in the Wool",
         "rating": "4",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -757,6 +851,7 @@
         "artist": "Robber Robber",
         "title": "Wild Guess",
         "rating": "4",
+        "listens": "1",
         "id": "ba88eb8f-6c40-4993-a8e8-9ff1f06e4fb9",
         "image": false
     },
@@ -765,6 +860,7 @@
         "artist": "Aoife O'Donovan",
         "title": "All My Friends",
         "rating": "4",
+        "listens": "1",
         "id": "c0c16bed-3473-4f50-a62c-93a2615bb159",
         "image": false
     },
@@ -773,6 +869,7 @@
         "artist": "Parannoul",
         "title": "Sky Hundred",
         "rating": "4",
+        "listens": "1",
         "id": "094e23cf-fafb-429d-bcc3-89ed6edccb01",
         "image": false
     },
@@ -781,6 +878,7 @@
         "artist": "Caput Medusae",
         "title": "You Can't Negotiate With Zombies",
         "rating": "4",
+        "listens": "1",
         "id": "c67b78ad-912c-4326-9bfa-3c5ac9ae622b",
         "image": false
     },
@@ -789,6 +887,7 @@
         "artist": "Diane Birch",
         "title": "Flying on Abraham",
         "rating": "4",
+        "listens": "1",
         "id": "9126a5f8-bf4b-4780-80f1-ede7e74803e8",
         "image": false
     },
@@ -797,6 +896,7 @@
         "artist": "cayce crane",
         "title": "Jidaigeki Groove",
         "rating": "4",
+        "listens": "1",
         "id": null,
         "image": false
     },
@@ -805,6 +905,7 @@
         "artist": "Iress",
         "title": "Sleep Now, In Reverse",
         "rating": "4",
+        "listens": "1",
         "id": "5fea84df-c991-49c8-b11f-79eb63bb1f3b",
         "image": false
     },
@@ -813,6 +914,7 @@
         "artist": "Maya de Vitry",
         "title": "The Only Moment",
         "rating": "4",
+        "listens": "1",
         "id": "1f44c694-6d3b-420a-af2d-421b487e7301",
         "image": false
     },
@@ -821,6 +923,7 @@
         "artist": "Cindy Lee",
         "title": "Diamond Jubilee",
         "rating": "4",
+        "listens": "1",
         "id": "135c3530-ee97-44ee-ab00-0aa022fe00e4",
         "image": false
     },
@@ -829,6 +932,7 @@
         "artist": "Pedro the Lion",
         "title": "Santa Cruz",
         "rating": "3",
+        "listens": "1",
         "id": "3b951a8f-5f44-4e4f-9773-d6cba1b8a7af",
         "image": false
     },
@@ -837,6 +941,7 @@
         "artist": "Justice",
         "title": "Hyperdrama",
         "rating": "3",
+        "listens": "1",
         "id": "66869aec-e354-4ade-99fb-d7d746d73bf8",
         "image": false
     },
@@ -845,6 +950,7 @@
         "artist": "MGMT",
         "title": "Loss Of Life",
         "rating": "3",
+        "listens": "1",
         "id": "29ef1b8e-a9fc-4579-bb0d-01ba3f0e4cdb",
         "image": false
     },
@@ -853,6 +959,7 @@
         "artist": "Remi Wolf",
         "title": "Big Ideas",
         "rating": "3",
+        "listens": "1",
         "id": "73e462a3-17d9-40a2-854d-de0ede0cb9a5",
         "image": false
     },
@@ -861,6 +968,7 @@
         "artist": "Nox Novacula",
         "title": "Feed The Fire",
         "rating": "3",
+        "listens": "1",
         "id": "44e0cb64-5760-4152-bc08-14723c9d0ffc",
         "image": false
     },
@@ -869,6 +977,7 @@
         "artist": "Henrik Meierkord",
         "title": "Falling",
         "rating": "3",
+        "listens": "1",
         "id": "76699362-521f-44e5-9cb2-b6d5584ae242",
         "image": false
     },
@@ -877,6 +986,7 @@
         "artist": "Beyonc\u00e9",
         "title": "Cowboy Carter",
         "rating": "3",
+        "listens": "1",
         "id": "8e73c5c9-83f5-4888-ae2b-1e97b93be5a8",
         "image": false
     },
@@ -885,6 +995,7 @@
         "artist": "Charly Bliss",
         "title": "FOREVER",
         "rating": "3",
+        "listens": "1",
         "id": "e0a49795-f206-4d6d-bece-afa70f67960d",
         "image": false
     },
@@ -893,6 +1004,7 @@
         "artist": "State OFFF",
         "title": "Simulacra",
         "rating": "3",
+        "listens": "1",
         "id": "df3e7005-7c56-4323-ae57-f39a9562fc98",
         "image": false
     },
@@ -901,6 +1013,7 @@
         "artist": "LEATHERS",
         "title": "Ultraviolet",
         "rating": "3",
+        "listens": "1",
         "id": "dcdd078f-7568-4096-9c63-7452418addb3",
         "image": false
     },
@@ -909,6 +1022,7 @@
         "artist": "Your Arms Are My Cocoon",
         "title": "Death of a Rabbit",
         "rating": "3",
+        "listens": "1",
         "id": "e72b51a0-0ab1-4d2a-97e2-341756586e62",
         "image": false
     },
@@ -917,6 +1031,7 @@
         "artist": "Tony Jay",
         "title": "Knife Is But A Dream",
         "rating": "3",
+        "listens": "1",
         "id": "b64f262b-e5df-4223-a548-31b4e0fa2483",
         "image": false
     },
@@ -925,6 +1040,7 @@
         "artist": "Heaven For Real",
         "title": "Hell's Logo's Pink",
         "rating": "3",
+        "listens": "1",
         "id": "58d570c9-bcb4-4f82-bd68-e695931ff70b",
         "image": false
     },
@@ -933,6 +1049,7 @@
         "artist": "Joey Valence & Brae",
         "title": "No Hands",
         "rating": "2",
+        "listens": "1",
         "id": "43266c00-ff98-4277-a978-38176947f6db",
         "image": false
     },
@@ -941,6 +1058,7 @@
         "artist": "Jack White",
         "title": "No Name",
         "rating": "2",
+        "listens": "1",
         "id": "c065cee3-7f96-4aee-9540-a078ec0920dd",
         "image": false
     }
