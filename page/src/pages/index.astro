@@ -8,13 +8,17 @@ import albums from '../data/albumy.json'
         <h1>My Top 30 Albums of the Year</h1>
         <ol id="album-list">
 	{
-		albums.slice(0, 30).map(({ artist, title, id, image }) => (
-
+		albums.slice(0, 30).map(({ artist, title, id, image, listens }) => (
 		    <li class="album">
 			<img src={`${image ? id : "empty"}.jpg`} alt="Album Cover">
 			<div class="album-info">
-			    <h2>{title}</h2>
-			    <p>{artist}</p>
+			        <div class="album-header">
+					<h2>{title}</h2>
+					<p>{artist}</p>
+				</div>
+			        <div class="album-footer">
+					<div class="listen-count">{listens}</div>
+			        </div>
 			</div>
 		    </li>
 	))
@@ -48,12 +52,21 @@ import albums from '../data/albumy.json'
 	    display: flex;
 	}
 
+	.album-footer {
+	    display: flex;
+	    justify-content: end;
+	}
+
 	.album img {
 		width: 150px;
 	}
 
 	.album-info {
 	    padding: 15px;
+	    width: 100%;
+	    display: flex;
+	    flex-direction: column;
+	    justify-content: space-between;
 	}
 
 	.album-info h2 {
@@ -71,6 +84,16 @@ import albums from '../data/albumy.json'
 	    transform: translateX(-5px);
 	}
 
+	.listen-count {
+	    font-size: 12px;
+	    color: #777;
+	}
+
+	.listen-count::before {
+	    content: '🎧';
+	    margin-right: 2px;
+	}
+
 	@media (max-width: 768px) {
 	    .album {
 	    }
@@ -80,6 +103,10 @@ import albums from '../data/albumy.json'
 	    .album {
 		    flex-direction: column;
 		    text-align: center;
+	    }
+
+	    .album-footer {
+		    justify-content: center;
 	    }
 
 	    .album img {
