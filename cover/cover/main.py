@@ -50,12 +50,12 @@ def saveTo(data: str, filename: str):
     f.close()
 
 
-def getCached(filename):
+def getFromFile(filename):
     cache_file = Path(filename)
     if cache_file.exists():
         with open(filename) as f:
             return json.load(f)
-    return {}
+    return []
 
 
 def getCachedAlbum(cached, album):
@@ -74,7 +74,8 @@ def checkFile(id):
 def main():
     with open('data/albumy.json') as f:
         albums = json.load(f)
-    cached = getCached('dist/albumy.json')
+    cached = getFromFile('dist/albumy.json')
+    changes = getFromFile('dist/changes.json')
 
     for album in albums:
         artist = album['artist']
@@ -86,11 +87,20 @@ def main():
             print(f"Using cached id for {artist} - {title}...")
             album['id'] = cached_id
             album['image'] = cached_album['image'] if 'image' in cached_album else checkFile(album['id'])
+            if album['rating'] != cached_album['rating']:
+                changes.append({
+                    'artist': artist,
+                    'title': title,
+                    'type': 'rating',
+                    'from': album['rating'],
+                    'to': cached_album['rating']
+                    })
             if 'rated_at' in cached_album:
                 album['rated_at'] = cached_album['rated_at']
             continue
 
         print(f"New album: {artist} - {title}.")
+        changes.append({'artist': artist, 'title': title, 'type': 'new'})
         album['rated_at'] = datetime.today().strftime('%d-%m-%Y')
         print(f"Rating date: {album['rated_at']}")
 
@@ -125,6 +135,7 @@ def main():
             print("Album not found in MusicBrainz")
 
     saveTo(json.dumps(albums, indent=4), "dist/albumy.json")
+    saveTo(json.dumps(changes, indent=4), "dist/changes.json")
 
 
 if __name__ == "__main__":
