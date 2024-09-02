@@ -97,6 +97,8 @@ def main():
                     })
             if 'rated_at' in cached_album:
                 album['rated_at'] = cached_album['rated_at']
+            if album['listens'] == '':
+                album['listens'] = '1';
             continue
 
         print(f"New album: {artist} - {title}.")

@@ -12,13 +12,13 @@ def getOrgData(filename):
 
     albumList = ranking.get_body(format="raw")
 
-    regex = r"([0-9]+)\. (.+) [—–-] (.+) \[([0-9]+)/10\]"
+    regex = r"([0-9]+)\. (.+) [—–-] (.+) \[([0-9]+)/10\](?:.*? \(([0-9]+)\))?"
     match = re.findall(regex, albumList)
     return match
 
 
 def toJson(albumList, indent=None) -> str:
-    keys = ["number", "artist", "title", "rating"]
+    keys = ["number", "artist", "title", "rating", "listens"]
 
     albumsNew = []
     for album in albumList:
