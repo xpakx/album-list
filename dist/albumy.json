@@ -22,7 +22,7 @@
         "artist": "Mary Halvorson",
         "title": "Cloudward",
         "rating": "7",
-        "listens": "8",
+        "listens": "10",
         "id": "07d0e952-d941-4f2e-9f3a-cbb3b7e84c85",
         "image": true
     },
@@ -112,7 +112,7 @@
         "artist": "Hakushi Hasegawa",
         "title": "Mah\u200b\u014d\u200bgakk\u014d",
         "rating": "7",
-        "listens": "1",
+        "listens": "3",
         "id": "mahogakko2024",
         "image": true
     },
@@ -139,7 +139,7 @@
         "artist": "Iglooghost",
         "title": "Tidal Memory Exo",
         "rating": "7",
-        "listens": "1",
+        "listens": "2",
         "id": "d96da91e-5e3b-4798-8ad0-60f9c3273db2",
         "image": true
     },
@@ -220,7 +220,7 @@
         "artist": "Mabe Fratti",
         "title": "Sentir que no sabes",
         "rating": "7",
-        "listens": "7",
+        "listens": "9",
         "id": "5fd3377d-59e6-48e9-9249-c1117b759def",
         "image": true
     },
