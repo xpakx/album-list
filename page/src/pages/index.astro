@@ -8,7 +8,7 @@ import albums from '../data/albumy.json'
         <h1>My Top 30 Albums of the Year</h1>
         <ol id="album-list">
 	{
-		albums.slice(0, 30).map(({ artist, title, id, image, listens }) => (
+		albums.slice(0, 30).map(({ artist, title, id, image, listens, rating }) => (
 		    <li class="album">
 			<img src={`${image ? id : "empty"}.jpg`} alt="Album Cover">
 			<div class="album-info">
@@ -17,6 +17,7 @@ import albums from '../data/albumy.json'
 					<p>{artist}</p>
 				</div>
 			        <div class="album-footer">
+					<div class="rating">{rating}/10</div>
 					<div class="listen-count">{listens}</div>
 			        </div>
 			</div>
@@ -55,6 +56,7 @@ import albums from '../data/albumy.json'
 	.album-footer {
 	    display: flex;
 	    justify-content: end;
+	    gap: 5px;
 	}
 
 	.album img {
@@ -84,13 +86,18 @@ import albums from '../data/albumy.json'
 	    transform: translateX(-5px);
 	}
 
-	.listen-count {
+	.listen-count, .rating {
 	    font-size: 12px;
 	    color: #777;
 	}
 
 	.listen-count::before {
 	    content: '🎧';
+	    margin-right: 2px;
+	}
+
+	.rating::before {
+	    content: '⭐';
 	    margin-right: 2px;
 	}
 
