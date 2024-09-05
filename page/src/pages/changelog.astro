@@ -1,0 +1,137 @@
+---
+import Layout from '../layouts/Layout.astro';
+import changes from '../data/changes.json'
+---
+
+<Layout title="Albums">
+    <main>
+        <h1>Changes</h1>
+        <ol id="change-list">
+	{
+		changes.map(({ artist, title, type, from, to, date }) => (
+		    <li class="album">
+			<div class="album-info">
+			        <div class="date-tag">
+				{date}
+				</div>
+			        <div class="album-header">
+					<span class="artist">{artist}</span>
+					— 
+					{title}
+				</div>
+				<div class="ratings">
+				        {
+					type == "new" 
+					? "🆕"
+					: ""
+					}
+					{ 
+					from 
+					? <>
+						<span class="rating old">{from}/10</span>
+						➠
+					  </>  
+					: ""
+					} 
+
+					<span class="rating">{to}/10</span>
+				</div>
+			</div>
+		    </li>
+	))
+	}
+        </ol>
+    </main>
+</Layout>
+
+<style>
+	#change-list {
+	    max-width: 1200px;
+	    margin: 0 auto;
+	    padding: 20px;
+	    list-style: none;
+	}
+
+	h1 {
+	    text-align: center;
+	    color: #333;
+	    margin-bottom: 40px;
+	}
+
+	.album {
+	    background-color: #fff;
+	    overflow: hidden;
+	    width: calc(100% - 20px);
+	    transition: transform 0.3s ease;
+	    padding: 0 10px;
+	}
+
+	.album:nth-child(even) {
+	    background-color: #f6f6f6;
+	}
+
+	.album-info {
+	    width: 100%;
+	    display: flex;
+	    align-items: center;
+	    gap: 10px;
+	}
+
+	.album-header {
+	    padding: 15px;
+	}
+
+	.album-header .artist {
+	    color: #333;
+	    font-weight: 700;
+	}
+
+	.album-info p {
+	    font-size: 14px;
+	    color: #777;
+	}
+
+	.album:hover {
+	    transform: translateX(-5px);
+	}
+
+	.rating {
+	    font-size: 12px;
+	    color: #777;
+	}
+
+	.rating::before {
+	    content: '⭐';
+	    margin-right: 2px;
+	}
+
+	.date-tag {
+	    font-size: 14px;
+	    color: #ffffff;
+	    background-color: #2d2d2d;
+	    border-radius: 8px;
+	    padding: 4px 10px;
+	    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+	}
+
+	.album:nth-child(even) .date-tag {
+	    background-color: #3d3d3d;
+	}
+
+	@media (max-width: 480px) {
+	    .album-info {
+	            width: revert;
+	    }
+
+	    .album {
+		    flex-direction: column;
+		    text-align: center;
+	    }
+
+	    .album-footer {
+		    justify-content: center;
+	    }
+	}
+
+</style>
+
