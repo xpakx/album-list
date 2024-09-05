@@ -154,6 +154,15 @@
     },
     {
         "number": "18",
+        "artist": "Mabe Fratti",
+        "title": "Sentir que no sabes",
+        "rating": "7",
+        "listens": "9",
+        "id": "5fd3377d-59e6-48e9-9249-c1117b759def",
+        "image": true
+    },
+    {
+        "number": "19",
         "artist": "Julius Gabriel",
         "title": "Tales from the Subterranean",
         "rating": "6",
@@ -162,7 +171,7 @@
         "image": false
     },
     {
-        "number": "19",
+        "number": "20",
         "artist": "Chelsea Wolfe",
         "title": "She Reaches Out to She Reaches Out to She",
         "rating": "6",
@@ -171,7 +180,7 @@
         "image": true
     },
     {
-        "number": "20",
+        "number": "21",
         "artist": "Lolina",
         "title": "Unrecognisable",
         "rating": "6",
@@ -180,7 +189,7 @@
         "image": true
     },
     {
-        "number": "21",
+        "number": "22",
         "artist": "James Blake & Lil Yachty",
         "title": "Bad Cameo",
         "rating": "6",
@@ -189,7 +198,7 @@
         "image": true
     },
     {
-        "number": "22",
+        "number": "23",
         "artist": "Maria Pomianowska & Friends",
         "title": "Dance of Suka",
         "rating": "6",
@@ -198,7 +207,7 @@
         "image": false
     },
     {
-        "number": "23",
+        "number": "24",
         "artist": "Mamaleek",
         "title": "Vida Blue",
         "rating": "6",
@@ -207,21 +216,12 @@
         "image": true
     },
     {
-        "number": "24",
+        "number": "25",
         "artist": "Malcolm Jiyane Tree-O",
         "title": "TRUE STORY",
         "rating": "6",
         "listens": "1",
         "id": "aa981051-f189-43d5-a874-222b829d4b69",
-        "image": true
-    },
-    {
-        "number": "25",
-        "artist": "Mabe Fratti",
-        "title": "Sentir que no sabes",
-        "rating": "7",
-        "listens": "9",
-        "id": "5fd3377d-59e6-48e9-9249-c1117b759def",
         "image": true
     },
     {
