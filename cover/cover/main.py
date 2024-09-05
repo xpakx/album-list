@@ -76,6 +76,7 @@ def main():
         albums = json.load(f)
     cached = getFromFile('dist/albumy.json')
     changes = getFromFile('dist/changes.json')
+    today = datetime.today().strftime('%d-%m-%Y')
 
     for album in albums:
         artist = album['artist']
@@ -93,7 +94,8 @@ def main():
                     'title': title,
                     'type': 'rating',
                     'from': album['rating'],
-                    'to': cached_album['rating']
+                    'to': cached_album['rating'],
+                    'date': today
                     })
             if 'rated_at' in cached_album:
                 album['rated_at'] = cached_album['rated_at']
@@ -102,8 +104,8 @@ def main():
             continue
 
         print(f"New album: {artist} - {title}.")
-        changes.append({'artist': artist, 'title': title, 'type': 'new'})
-        album['rated_at'] = datetime.today().strftime('%d-%m-%Y')
+        changes.append({'artist': artist, 'title': title, 'type': 'new', 'to': album['rating'], 'date': today})
+        album['rated_at'] = today
         print(f"Rating date: {album['rated_at']}")
 
         print("Fetching id...")
