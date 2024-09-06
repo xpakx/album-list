@@ -77,9 +77,9 @@
         "title": "The Bird of a Thousand Voices",
         "rating": "7",
         "listens": "2",
-        "rated_at": "06-09-2024",
         "id": "77c1f140-c99a-454c-ad22-d5a30610e8de",
-        "image": true
+        "image": true,
+        "rated_at": "06-09-2024"
     },
     {
         "number": "10",
@@ -452,6 +452,15 @@
     },
     {
         "number": "51",
+        "artist": "Seefeel",
+        "title": "Everything Squared",
+        "rating": "5",
+        "listens": "2",
+        "rated_at": "06-09-2024",
+        "id": "559aaffc-a932-4a02-b155-23ea1f810b73"
+    },
+    {
+        "number": "52",
         "artist": "Skee Mask",
         "title": "Resort",
         "rating": "5",
@@ -460,7 +469,7 @@
         "image": false
     },
     {
-        "number": "52",
+        "number": "53",
         "artist": "Allie X",
         "title": "Girl With No Face",
         "rating": "5",
@@ -469,7 +478,7 @@
         "image": false
     },
     {
-        "number": "53",
+        "number": "54",
         "artist": "L-R",
         "title": "V.O.S.",
         "rating": "5",
@@ -478,7 +487,7 @@
         "image": false
     },
     {
-        "number": "54",
+        "number": "55",
         "artist": "Peggy Gou",
         "title": "I Hear You",
         "rating": "5",
@@ -487,7 +496,7 @@
         "image": false
     },
     {
-        "number": "55",
+        "number": "56",
         "artist": "Hamish Hawk",
         "title": "A Firmer Hand",
         "rating": "5",
@@ -496,7 +505,7 @@
         "image": false
     },
     {
-        "number": "56",
+        "number": "57",
         "artist": "Pixey",
         "title": "Million Dollar Baby",
         "rating": "5",
@@ -505,7 +514,7 @@
         "image": false
     },
     {
-        "number": "57",
+        "number": "58",
         "artist": "St. Vincent",
         "title": "All Born Screaming",
         "rating": "5",
@@ -514,7 +523,7 @@
         "image": false
     },
     {
-        "number": "58",
+        "number": "59",
         "artist": "Kee Avil",
         "title": "Spine",
         "rating": "5",
@@ -523,7 +532,7 @@
         "image": false
     },
     {
-        "number": "59",
+        "number": "60",
         "artist": "Rachel Newton",
         "title": "Sealladh",
         "rating": "5",
@@ -532,7 +541,7 @@
         "image": false
     },
     {
-        "number": "60",
+        "number": "61",
         "artist": "Everything Everything",
         "title": "Moutainhead",
         "rating": "5",
@@ -541,7 +550,7 @@
         "image": false
     },
     {
-        "number": "61",
+        "number": "62",
         "artist": "Marika Hackman",
         "title": "Big Sigh",
         "rating": "5",
@@ -550,7 +559,7 @@
         "image": false
     },
     {
-        "number": "62",
+        "number": "63",
         "artist": "Ani DiFranco",
         "title": "Unprecedented Sh\u200b!\u200bt",
         "rating": "5",
@@ -559,7 +568,7 @@
         "image": false
     },
     {
-        "number": "63",
+        "number": "64",
         "artist": "Kr\u00f3lestwo",
         "title": "Patho-Jazz",
         "rating": "5",
@@ -568,7 +577,7 @@
         "image": false
     },
     {
-        "number": "64",
+        "number": "65",
         "artist": "Oval Angle",
         "title": "Figures of Speech",
         "rating": "5",
@@ -577,7 +586,7 @@
         "image": false
     },
     {
-        "number": "65",
+        "number": "66",
         "artist": "Kiasmos",
         "title": "II",
         "rating": "5",
@@ -586,7 +595,7 @@
         "image": false
     },
     {
-        "number": "66",
+        "number": "67",
         "artist": "Clairo",
         "title": "Charm",
         "rating": "5",
@@ -595,7 +604,7 @@
         "image": false
     },
     {
-        "number": "67",
+        "number": "68",
         "artist": "Cassandra Jenkins",
         "title": "My Light, My Destroyer",
         "rating": "5",
@@ -604,7 +613,7 @@
         "image": false
     },
     {
-        "number": "68",
+        "number": "69",
         "artist": "Kamixlo",
         "title": "DEATHWORK",
         "rating": "5",
@@ -613,7 +622,7 @@
         "image": false
     },
     {
-        "number": "69",
+        "number": "70",
         "artist": "Rosie Lowe",
         "title": "Lover, Other",
         "rating": "5",
@@ -622,7 +631,7 @@
         "image": false
     },
     {
-        "number": "70",
+        "number": "71",
         "artist": "King Gizzard & The Lizard Wizard",
         "title": "Flight b741",
         "rating": "5",
@@ -631,7 +640,7 @@
         "image": false
     },
     {
-        "number": "71",
+        "number": "72",
         "artist": "Dua Lipa",
         "title": "Radical Optimism",
         "rating": "5",
@@ -640,7 +649,7 @@
         "image": false
     },
     {
-        "number": "72",
+        "number": "73",
         "artist": "\u8868\u60c5\u94f6\u884c[Mimik Banka]",
         "title": "\u6d77\u9a6c\u68ee\u6797(Seahorse Forest)",
         "rating": "5",
@@ -649,7 +658,7 @@
         "image": false
     },
     {
-        "number": "73",
+        "number": "74",
         "artist": "Ringorrango",
         "title": "Bailar\u00e1s en mi verbena",
         "rating": "5",
@@ -658,7 +667,7 @@
         "image": false
     },
     {
-        "number": "74",
+        "number": "75",
         "artist": "Tyla",
         "title": "TYLA",
         "rating": "5",
@@ -667,7 +676,7 @@
         "image": false
     },
     {
-        "number": "75",
+        "number": "76",
         "artist": "Patricia Taxxon",
         "title": "Bicycle",
         "rating": "5",
@@ -676,7 +685,7 @@
         "image": false
     },
     {
-        "number": "76",
+        "number": "77",
         "artist": "Chuck Johnson",
         "title": "Sun Glories",
         "rating": "5",
@@ -685,7 +694,7 @@
         "image": false
     },
     {
-        "number": "77",
+        "number": "78",
         "artist": "Ibibio Sound Machine",
         "title": "Pull the Rope",
         "rating": "5",
@@ -694,7 +703,7 @@
         "image": false
     },
     {
-        "number": "78",
+        "number": "79",
         "artist": "The Smile",
         "title": "Wall of Eyes",
         "rating": "5",
@@ -703,7 +712,7 @@
         "image": false
     },
     {
-        "number": "79",
+        "number": "80",
         "artist": "Adrianne Lenker",
         "title": "Bright Future",
         "rating": "5",
@@ -712,7 +721,7 @@
         "image": false
     },
     {
-        "number": "80",
+        "number": "81",
         "artist": "Taut & Tame",
         "title": "Rosy Crucifixion",
         "rating": "5",
@@ -721,7 +730,7 @@
         "image": false
     },
     {
-        "number": "81",
+        "number": "82",
         "artist": "Kamasi Washington",
         "title": "Fearless Movement",
         "rating": "4",
@@ -730,7 +739,7 @@
         "image": false
     },
     {
-        "number": "82",
+        "number": "83",
         "artist": "Kanye West & Ty Dolla $ign",
         "title": "Vultures",
         "rating": "4",
@@ -739,7 +748,7 @@
         "image": false
     },
     {
-        "number": "83",
+        "number": "84",
         "artist": "Ghost In The Tapes",
         "title": "Holidays On Earth",
         "rating": "4",
@@ -748,7 +757,7 @@
         "image": false
     },
     {
-        "number": "84",
+        "number": "85",
         "artist": "Brijean",
         "title": "Macro",
         "rating": "4",
@@ -757,7 +766,7 @@
         "image": false
     },
     {
-        "number": "85",
+        "number": "86",
         "artist": "Vampire Weekend ",
         "title": "Only God Was Above Us",
         "rating": "4",
@@ -766,7 +775,7 @@
         "image": false
     },
     {
-        "number": "86",
+        "number": "87",
         "artist": "Joanna Wang",
         "title": "\u7834\u721b\u9152\u5e97 (Hotel la Rut)",
         "rating": "4",
@@ -775,7 +784,7 @@
         "image": false
     },
     {
-        "number": "87",
+        "number": "88",
         "artist": "samlrc",
         "title": "A Lonely Sinner",
         "rating": "4",
@@ -784,7 +793,7 @@
         "image": false
     },
     {
-        "number": "88",
+        "number": "89",
         "artist": "Blues Pills",
         "title": "Birthday",
         "rating": "4",
@@ -794,7 +803,7 @@
         "rated_at": "29-08-2024"
     },
     {
-        "number": "89",
+        "number": "90",
         "artist": "J.R.C.G.",
         "title": "Grim Iconic\u200b.\u200b.\u200b.\u200b(\u200bSadistic Mantra)",
         "rating": "4",
@@ -803,7 +812,7 @@
         "image": false
     },
     {
-        "number": "90",
+        "number": "91",
         "artist": "Kimbanourke",
         "title": "Binjari",
         "rating": "4",
@@ -812,7 +821,7 @@
         "image": false
     },
     {
-        "number": "91",
+        "number": "92",
         "artist": "NxWorries",
         "title": "Why Lawd?",
         "rating": "4",
@@ -821,7 +830,7 @@
         "image": false
     },
     {
-        "number": "92",
+        "number": "93",
         "artist": "Thee Marloes",
         "title": "Perak",
         "rating": "4",
@@ -830,7 +839,7 @@
         "image": false
     },
     {
-        "number": "93",
+        "number": "94",
         "artist": "Charli XCX",
         "title": "brat",
         "rating": "4",
@@ -839,7 +848,7 @@
         "image": false
     },
     {
-        "number": "94",
+        "number": "95",
         "artist": "Sarah Jarosz",
         "title": "Polaroid Lovers",
         "rating": "4",
@@ -848,7 +857,7 @@
         "image": false
     },
     {
-        "number": "95",
+        "number": "96",
         "artist": "Claire Ozmun",
         "title": "Dying in the Wool",
         "rating": "4",
@@ -857,7 +866,7 @@
         "image": false
     },
     {
-        "number": "96",
+        "number": "97",
         "artist": "Robber Robber",
         "title": "Wild Guess",
         "rating": "4",
@@ -866,7 +875,7 @@
         "image": false
     },
     {
-        "number": "97",
+        "number": "98",
         "artist": "Aoife O'Donovan",
         "title": "All My Friends",
         "rating": "4",
@@ -875,7 +884,7 @@
         "image": false
     },
     {
-        "number": "98",
+        "number": "99",
         "artist": "Parannoul",
         "title": "Sky Hundred",
         "rating": "4",
@@ -884,7 +893,7 @@
         "image": false
     },
     {
-        "number": "99",
+        "number": "100",
         "artist": "Caput Medusae",
         "title": "You Can't Negotiate With Zombies",
         "rating": "4",
@@ -893,7 +902,7 @@
         "image": false
     },
     {
-        "number": "100",
+        "number": "101",
         "artist": "Diane Birch",
         "title": "Flying on Abraham",
         "rating": "4",
@@ -902,7 +911,7 @@
         "image": false
     },
     {
-        "number": "101",
+        "number": "102",
         "artist": "cayce crane",
         "title": "Jidaigeki Groove",
         "rating": "4",
@@ -911,7 +920,7 @@
         "image": false
     },
     {
-        "number": "102",
+        "number": "103",
         "artist": "Iress",
         "title": "Sleep Now, In Reverse",
         "rating": "4",
@@ -920,7 +929,7 @@
         "image": false
     },
     {
-        "number": "103",
+        "number": "104",
         "artist": "Maya de Vitry",
         "title": "The Only Moment",
         "rating": "4",
@@ -929,7 +938,7 @@
         "image": false
     },
     {
-        "number": "104",
+        "number": "105",
         "artist": "Cindy Lee",
         "title": "Diamond Jubilee",
         "rating": "4",
@@ -938,7 +947,7 @@
         "image": false
     },
     {
-        "number": "105",
+        "number": "106",
         "artist": "Pedro the Lion",
         "title": "Santa Cruz",
         "rating": "3",
@@ -947,7 +956,7 @@
         "image": false
     },
     {
-        "number": "106",
+        "number": "107",
         "artist": "Justice",
         "title": "Hyperdrama",
         "rating": "3",
@@ -956,7 +965,7 @@
         "image": false
     },
     {
-        "number": "107",
+        "number": "108",
         "artist": "MGMT",
         "title": "Loss Of Life",
         "rating": "3",
@@ -965,7 +974,7 @@
         "image": false
     },
     {
-        "number": "108",
+        "number": "109",
         "artist": "Remi Wolf",
         "title": "Big Ideas",
         "rating": "3",
@@ -974,7 +983,7 @@
         "image": false
     },
     {
-        "number": "109",
+        "number": "110",
         "artist": "Nox Novacula",
         "title": "Feed The Fire",
         "rating": "3",
@@ -983,7 +992,7 @@
         "image": false
     },
     {
-        "number": "110",
+        "number": "111",
         "artist": "Henrik Meierkord",
         "title": "Falling",
         "rating": "3",
@@ -992,7 +1001,7 @@
         "image": false
     },
     {
-        "number": "111",
+        "number": "112",
         "artist": "Beyonc\u00e9",
         "title": "Cowboy Carter",
         "rating": "3",
@@ -1001,7 +1010,7 @@
         "image": false
     },
     {
-        "number": "112",
+        "number": "113",
         "artist": "Charly Bliss",
         "title": "FOREVER",
         "rating": "3",
@@ -1010,7 +1019,7 @@
         "image": false
     },
     {
-        "number": "113",
+        "number": "114",
         "artist": "State OFFF",
         "title": "Simulacra",
         "rating": "3",
@@ -1019,7 +1028,7 @@
         "image": false
     },
     {
-        "number": "114",
+        "number": "115",
         "artist": "LEATHERS",
         "title": "Ultraviolet",
         "rating": "3",
@@ -1028,7 +1037,7 @@
         "image": false
     },
     {
-        "number": "115",
+        "number": "116",
         "artist": "Your Arms Are My Cocoon",
         "title": "Death of a Rabbit",
         "rating": "3",
@@ -1037,7 +1046,7 @@
         "image": false
     },
     {
-        "number": "116",
+        "number": "117",
         "artist": "Tony Jay",
         "title": "Knife Is But A Dream",
         "rating": "3",
@@ -1046,7 +1055,7 @@
         "image": false
     },
     {
-        "number": "117",
+        "number": "118",
         "artist": "Heaven For Real",
         "title": "Hell's Logo's Pink",
         "rating": "3",
@@ -1055,7 +1064,7 @@
         "image": false
     },
     {
-        "number": "118",
+        "number": "119",
         "artist": "Joey Valence & Brae",
         "title": "No Hands",
         "rating": "2",
@@ -1064,7 +1073,7 @@
         "image": false
     },
     {
-        "number": "119",
+        "number": "120",
         "artist": "Jack White",
         "title": "No Name",
         "rating": "2",
