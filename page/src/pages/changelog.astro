@@ -1,6 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import changes from '../data/changes.json'
+
+interface LogItem {
+	date: string;
+	artist: string;
+	title: string;
+	type: string;
+	to: string;
+	from?: string;
+}
 ---
 
 <Layout title="Albums">
@@ -8,33 +17,33 @@ import changes from '../data/changes.json'
         <h1>Changes</h1>
         <ol id="change-list">
 	{
-		changes.map(({ artist, title, type, from, to, date }) => (
+		changes.map((item : LogItem ) => (
 		    <li class="album">
 			<div class="album-info">
 			        <div class="date-tag">
-				{date}
+				{item.date}
 				</div>
 			        <div class="album-header">
-					<span class="artist">{artist}</span>
+					<span class="artist">{item.artist}</span>
 					— 
-					{title}
+					{item.title}
 				</div>
 				<div class="ratings">
 				        {
-					type == "new" 
+					item.type == "new" 
 					? "🆕"
 					: ""
 					}
 					{ 
-					from 
+					item.from 
 					? <>
-						<span class="rating old">{from}/10</span>
+						<span class="rating old">{item.from}/10</span>
 						➠
 					  </>  
 					: ""
 					} 
 
-					<span class="rating">{to}/10</span>
+					<span class="rating">{item.to}/10</span>
 				</div>
 			</div>
 		    </li>
