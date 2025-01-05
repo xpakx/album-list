@@ -61,5 +61,152 @@
         "type": "new",
         "to": "4",
         "date": "30-09-2024"
+    },
+    {
+        "artist": "Darius Jones",
+        "title": "Legend of e'Boi (The Hypervigilant Eye)",
+        "type": "new",
+        "to": "7",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Tristwch Y Fenywod",
+        "title": "Tristwch Y Fenywod",
+        "type": "new",
+        "to": "7",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Cameron Winter",
+        "title": "Heavy Metal",
+        "type": "new",
+        "to": "7",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Shane Parish",
+        "title": "Repertoire (5)",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "HWI",
+        "title": "humanly possible",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "BABii",
+        "title": "DareDeviil2000",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Tyler, the Creator",
+        "title": "Chromakopia",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Ibrahim Maalouf",
+        "title": "Trumpets of Michel-Ange",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Esy Tadesse",
+        "title": "Ahadu",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Faraway Ghost & Sunken Cages",
+        "title": "Ashk Haye Moghavemat",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Black Ends",
+        "title": "Psychotic Spew (4)",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Terror/Cactus",
+        "title": "Forastero (5)",
+        "type": "new",
+        "to": "6",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Haley Heynderickx",
+        "title": "Seed of a Seed",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Juanita Stein ",
+        "title": "The Weightless Hour",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "D'Monk",
+        "title": "Shine",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Sex Swing",
+        "title": "Golden Triangle",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "DJ Lycox",
+        "title": "Guetto Star",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "District Five",
+        "title": "Come Closer",
+        "type": "new",
+        "to": "5",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Chie Otomi",
+        "title": "Touch Again",
+        "type": "new",
+        "to": "4",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Sophie Brown and Friends",
+        "title": "Emerald Isle",
+        "type": "new",
+        "to": "4",
+        "date": "05-01-2025"
+    },
+    {
+        "artist": "Dead Rock Society",
+        "title": "Black Metal Halloween",
+        "type": "new",
+        "to": "3",
+        "date": "05-01-2025"
     }
 ]
