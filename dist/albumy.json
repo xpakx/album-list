@@ -4,10 +4,10 @@
         "artist": "Darius Jones",
         "title": "Legend of e'Boi (The Hypervigilant Eye)",
         "rating": "7",
-        "listens": "",
-        "rated_at": "05-01-2025",
+        "listens": "1",
         "id": "031e5a14-1ed9-424e-97b6-fd4ac2f5c0c5",
-        "image": true
+        "image": true,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "2",
@@ -115,9 +115,9 @@
         "title": "Tristwch Y Fenywod",
         "rating": "7",
         "listens": "15",
-        "rated_at": "05-01-2025",
         "id": "7eb004f9-a298-4eb6-b006-b39550d8150e",
-        "image": true
+        "image": true,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "14",
@@ -179,9 +179,9 @@
         "title": "Heavy Metal",
         "rating": "7",
         "listens": "2",
-        "rated_at": "05-01-2025",
         "id": "16c36992-20ce-4ac8-8b79-ee6a18a5a34b",
-        "image": true
+        "image": true,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "21",
@@ -249,12 +249,12 @@
     {
         "number": "28",
         "artist": "Shane Parish",
-        "title": "Repertoire",
+        "title": "Repertoire (5)",
         "rating": "6",
-        "listens": "5",
-        "rated_at": "05-01-2025",
-        "id": "35c8eff1-14ef-4a7e-8c79-3ec83d84a54f",
-        "image": true
+        "listens": "",
+        "rated_at": "12-01-2025",
+        "id": null,
+        "image": false
     },
     {
         "number": "29",
@@ -334,8 +334,9 @@
         "title": "humanly possible",
         "rating": "6",
         "listens": "5",
-        "rated_at": "05-01-2025",
-        "id": "f02c2930-d9d4-4c05-ab8c-ab5315585fa8"
+        "id": "f02c2930-d9d4-4c05-ab8c-ab5315585fa8",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "38",
@@ -370,17 +371,19 @@
         "title": "DareDeviil2000",
         "rating": "6",
         "listens": "3",
-        "rated_at": "05-01-2025",
-        "id": "b3e83cd9-4bb6-4ea8-b509-5eb1b76d3026"
+        "id": "b3e83cd9-4bb6-4ea8-b509-5eb1b76d3026",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "42",
         "artist": "Tyler, the Creator",
         "title": "Chromakopia",
         "rating": "6",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "e41ee68e-eb4a-4ea6-9dbd-e9d0b9d72712"
+        "listens": "1",
+        "id": "e41ee68e-eb4a-4ea6-9dbd-e9d0b9d72712",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "43",
@@ -396,9 +399,10 @@
         "artist": "Ibrahim Maalouf",
         "title": "Trumpets of Michel-Ange",
         "rating": "6",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "8f9ca58a-396a-4bd4-8ec6-4da16e0170d9"
+        "listens": "1",
+        "id": "8f9ca58a-396a-4bd4-8ec6-4da16e0170d9",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "45",
@@ -414,9 +418,10 @@
         "artist": "Esy Tadesse",
         "title": "Ahadu",
         "rating": "6",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "6d8b7266-4fb1-4fe2-9f14-c2b08260ec54"
+        "listens": "1",
+        "id": "6d8b7266-4fb1-4fe2-9f14-c2b08260ec54",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "47",
@@ -432,9 +437,10 @@
         "artist": "Faraway Ghost & Sunken Cages",
         "title": "Ashk Haye Moghavemat",
         "rating": "6",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": null
+        "listens": "1",
+        "id": null,
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "49",
@@ -528,29 +534,29 @@
     },
     {
         "number": "59",
-        "artist": "Ravyn Lenae",
+        "artist": "Raven Lenae",
         "title": "Bird's Eye",
         "rating": "6",
         "listens": "2",
-        "id": "9bab1d2e-d11b-4ba9-9912-ff0d0422fa8a",
-        "image": false
+        "rated_at": "12-01-2025",
+        "id": "9bab1d2e-d11b-4ba9-9912-ff0d0422fa8a"
     },
     {
         "number": "60",
         "artist": "Black Ends",
-        "title": "Psychotic Spew",
+        "title": "Psychotic Spew (4)",
         "rating": "6",
-        "listens": "4",
-        "rated_at": "05-01-2025",
+        "listens": "",
+        "rated_at": "12-01-2025",
         "id": "1d677240-86c7-44bb-b9f5-8b469d4b40e9"
     },
     {
         "number": "61",
         "artist": "Terror/Cactus",
-        "title": "Forastero",
+        "title": "Forastero (5)",
         "rating": "6",
-        "listens": "5",
-        "rated_at": "05-01-2025",
+        "listens": "",
+        "rated_at": "12-01-2025",
         "id": "5e440dfb-4f2b-481e-a2da-26f3ea461328"
     },
     {
@@ -567,9 +573,10 @@
         "artist": "Haley Heynderickx",
         "title": "Seed of a Seed",
         "rating": "5",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "be622ab7-2c14-47e9-afbb-b2f8e89c238d"
+        "listens": "1",
+        "id": "be622ab7-2c14-47e9-afbb-b2f8e89c238d",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "64",
@@ -587,8 +594,9 @@
         "title": "The Weightless Hour",
         "rating": "5",
         "listens": "2",
-        "rated_at": "05-01-2025",
-        "id": "7ce9f6c7-10e4-42cf-988b-75fe311eda39"
+        "id": "7ce9f6c7-10e4-42cf-988b-75fe311eda39",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "66",
@@ -651,9 +659,10 @@
         "artist": "D'Monk",
         "title": "Shine",
         "rating": "5",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "90d49a41-64af-408f-b418-81c95eae8d94"
+        "listens": "1",
+        "id": "90d49a41-64af-408f-b418-81c95eae8d94",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "73",
@@ -787,9 +796,10 @@
         "artist": "Sex Swing",
         "title": "Golden Triangle",
         "rating": "5",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "823aec00-b3cf-4101-9f95-a98fe33d539a"
+        "listens": "1",
+        "id": "823aec00-b3cf-4101-9f95-a98fe33d539a",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "88",
@@ -842,9 +852,10 @@
         "artist": "DJ Lycox",
         "title": "Guetto Star",
         "rating": "5",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "a17b4bfc-9990-4afc-b3ea-f0aa34a1176e"
+        "listens": "1",
+        "id": "a17b4bfc-9990-4afc-b3ea-f0aa34a1176e",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "94",
@@ -896,9 +907,10 @@
         "artist": "District Five",
         "title": "Come Closer",
         "rating": "5",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "299bd092-c5d2-43f0-acbb-2259821c902e"
+        "listens": "1",
+        "id": "299bd092-c5d2-43f0-acbb-2259821c902e",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "100",
@@ -970,9 +982,10 @@
         "artist": "Chie Otomi",
         "title": "Touch Again",
         "rating": "4",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "9eebf94b-4466-435e-b85b-3a1aa85f2104"
+        "listens": "1",
+        "id": "9eebf94b-4466-435e-b85b-3a1aa85f2104",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "108",
@@ -1124,9 +1137,10 @@
         "artist": "Sophie Brown and Friends",
         "title": "Emerald Isle",
         "rating": "4",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": "55829ba4-4520-4174-9bd6-af0dc2963a9a"
+        "listens": "1",
+        "id": "55829ba4-4520-4174-9bd6-af0dc2963a9a",
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "125",
@@ -1232,9 +1246,10 @@
         "artist": "Dead Rock Society",
         "title": "Black Metal Halloween",
         "rating": "3",
-        "listens": "",
-        "rated_at": "05-01-2025",
-        "id": null
+        "listens": "1",
+        "id": null,
+        "image": false,
+        "rated_at": "05-01-2025"
     },
     {
         "number": "137",
