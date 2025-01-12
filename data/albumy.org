@@ -3,7 +3,7 @@
 :END:
 #+title: Albumy 2024
 * Odsłuchane
-1. Darius Jones — Legend of e'Boi (The Hypervigilant Eye) [7/10]
+1. Darius Jones — Legend of e'Boi (The Hypervigilant Eye) [7/10] (4)
 2. Julia Holter — Something in the Room She Moves [7/10] (11)
 3. Amaro Freitas - Y'Y [7/10]↑ (11)
 4. Mary Halvorson — Cloudward [7/10] (12)
@@ -16,137 +16,159 @@
 11. Bianca Scout – Pattern Damage [7/10] (7)
 12. Takkak Takkak — Takkak Takkak [7/10] (9)
 13. Tristwch Y Fenywod — Tristwch Y Fenywod [7/10]↑ (15)
-14. Weronika Grozdew & Musos - Wandering Songs [7/10]
-15. Raphael Rogiński — Žaltys [7/10]
-16. Hakushi Hasegawa — Mah​ō​gakkō [7/10] (5)
-17. JPEGMAFIA — I Lay Down My Life for You [7/10] (12)
-18. Kim Gordon — The Collective [7/10]↑
-19. Iglooghost — Tidal Memory Exo [7/10] (7)
-20. Cameron Winter — Heavy Metal [7/10] (2)
-21. Various Artists — Ulyap Songs: Beyond Circassian Tradition [7/10]
-22. Mabe Fratti — Sentir que no sabes [7/10] (10)
-23. Julius Gabriel – Tales from the Subterranean [6/10]↑↑?
-24. Chelsea Wolfe - She Reaches Out to She Reaches Out to She [6/10]↑?
-25. Lolina — Unrecognisable [6/10]
-26. James Blake & Lil Yachty — Bad Cameo [6/10]
-27. Maria Pomianowska & Friends — Dance of Suka [6/10]↑↑?
-28. Shane Parish — Repertoire (5) [6/10]↑
-29. Mamaleek — Vida Blue [6/10]
-30. Malcolm Jiyane Tree-O — TRUE STORY [6/10]↑
-31. Tess Hirst — HERstory [6/10]↑↑ (2)
-32. bela — Noise and Cries (​​​굉​​​음​​​과 울​​​음​​​) [6/10]
-33. Vera Sola — Peacemaker [6/10] (4)
-34. Arooj Aftab — Night Reign [6/10]
-35. Mdou Moctar — Funeral for Justice [6/10]
-36. Jlin — Akoma [6/10]↓?
-37. HWI — humanly possible [6/10] (5)
-38. Amy Gadiaga — All Black Everything [6/10]↑? (6)
-39. Milkweed — Folklore 1979 [6/10]↑↑↑
-40. Antonina Nowacka — Sylphine Soporifera [6/10] (3)
-41. BABii — DareDeviil2000 [6/10] (3)
-42. Tyler, the Creator — Chromakopia [6/10]
-43. Mohammad Syfkhan – I Am Kurdish [6/10] (2)
-44. Ibrahim Maalouf — Trumpets of Michel-Ange [6/10]
-45. Armand Hammer — BLK LBL [6/10]↑?
-46. Esy Tadesse — Ahadu [6/10]
-47. Kessoncoda - Outerstate [6/10]
-48. Faraway Ghost & Sunken Cages — Ashk Haye Moghavemat [6/10]
-49. Amanda Whiting — The Liminality Of Her [6/10] (5)
-50. Magdalena Bay — Imaginal Disk [6/10] (4)
-51. Raveena — Where the Butterflies Go in the Rain [6/10] (3)
-52. Aziza Brahim — Mawja [6/10]
-53. Mary Ocher — Your Guide to Revolution [6/10]↓
-54. Al Wootton — Lifted From the Earth [6/10]↑
-55. Bagus Shidqi — Njondhal Njondhil [6/10]
-56. Clarissa Connelly — World of Work [6/10]↓
-57. yuzuha — Love Notes [6/10] (5)
-58. Lupe Fiasco - Samurai [6/10]
-59. Raven Lenae — Bird's Eye [6/10] (2)
-60. Black Ends — Psychotic Spew (4) [6/10]
-61. Terror/Cactus — Forastero (5) [6/10]
-62. Ulcerate — Cutting the Throat of God [6/10] (2)
-63. Haley Heynderickx — Seed of a Seed [5/10]↑
-64. Mamman Sani & Tropikal Camel — Nijerusalem [5/10] RELISTEN
-65. Juanita Stein  — The Weightless Hour [5/10] (2)
-66. Seefeel — Everything Squared [5/10] (2)
-67. Skee Mask — Resort [5/10]↑?
-68. Allie X — Girl With No Face [5/10]↑
-69. The Dare — You Can Never Go Home [5/10]?
-70. L-R — V.O.S. [5/10]↑
-71. Peggy Gou — I Hear You [5/10]↑??? (4)
-72. D'Monk — Shine [5/10]??↑
-73. Hamish Hawk — A Firmer Hand [5/10]
-74. Pixey — Million Dollar Baby [5/10]↑
-75. St. Vincent — All Born Screaming [5/10]
-76. Kee Avil — Spine [5/10]↑???
-77. Rachel Newton — Sealladh [5/10]
-78. Everything Everything — Moutainhead [5/10]
-79. Marika Hackman – Big Sigh [5/10]
-80. Ani DiFranco — Unprecedented Sh​!​t [5/10]↑
-81. Królestwo — Patho-Jazz [5/10]
-82. Papangu — Lampi​ã​o Rei [5/10] (3)
-83. Oval Angle — Figures of Speech [5/10]
-84. Kiasmos — II [5/10]
-85. Clairo — Charm [5/10]
-86. Cassandra Jenkins — My Light, My Destroyer [5/10]
-87. Sex Swing — Golden Triangle [5/10]???
-88. Nubya Garcia — Odyssey  [5/10]
-89. Kamixlo — DEATHWORK [5/10]
-90. Rosie Lowe — Lover, Other [5/10]
-91. King Gizzard & The Lizard Wizard — Flight b741 [5/10]
-92. Dua Lipa — Radical Optimism [5/10]
-93. DJ Lycox — Guetto Star [5/10]
-94. 表情银行[Mimik Banka] — 海马森林(Seahorse Forest) [5/10]
-95. Ringorrango — Bailarás en mi verbena [5/10]
-96. Tyla — TYLA [5/10]
-97. Patricia Taxxon — Bicycle [5/10]
-98. Chuck Johnson — Sun Glories [5/10]
-99. District Five — Come Closer [5/10]
-100. Ibibio Sound Machine — Pull the Rope [5/10]
-101. The Smile — Wall of Eyes [5/10]
-102. Adrianne Lenker — Bright Future [5/10]
-103. Taut & Tame — Rosy Crucifixion [5/10]
-104. SOPHIE — SOPHIE [4/10]
-105. Kamasi Washington — Fearless Movement [4/10]
-106. Mo Dotti — opaque [4/10]
-107. Chie Otomi — Touch Again [4/10]
-108. Kanye West & Ty Dolla $ign — Vultures [4/10]↓
-109. Ghost In The Tapes — Holidays On Earth [4/10]
-110. Brijean — Macro [4/10]
-111. Vampire Weekend  — Only God Was Above Us [4/10]
-112. Joanna Wang — 破爛酒店 (Hotel la Rut) [4/10]
-113. samlrc — A Lonely Sinner [4/10]
-114. Blues Pills — Birthday [4/10]
-115. J.R.C.G. — Grim Iconic​.​.​.​(​Sadistic Mantra) [4/10]
-116. Kimbanourke — Binjari [4/10]
-117. NxWorries — Why Lawd? [4/10]
-118. Thee Marloes — Perak [4/10]
-119. Charli XCX — brat [4/10]
-120. Sarah Jarosz — Polaroid Lovers [4/10]
-121. Claire Ozmun — Dying in the Wool [4/10]
-122. Robber Robber — Wild Guess [4/10]
-123. Aoife O'Donovan — All My Friends [4/10]
-124. Sophie Brown and Friends — Emerald Isle [4/10]
-125. Parannoul — Sky Hundred [4/10]
-126. Caput Medusae — You Can't Negotiate With Zombies [4/10]
-127. Diane Birch — Flying on Abraham [4/10]
-128. cayce crane — Jidaigeki Groove [4/10]
-129. Iress — Sleep Now, In Reverse [4/10]
-130. Maya de Vitry — The Only Moment [4/10]
-131. Cindy Lee — Diamond Jubilee [4/10]↓
-132. Pedro the Lion – Santa Cruz [3/10]
-133. Justice — Hyperdrama [3/10]
-134. MGMT — Loss Of Life [3/10]
-135. Remi Wolf — Big Ideas [3/10]
-136. Dead Rock Society - Black Metal Halloween [3/10]
-137. Nox Novacula — Feed The Fire [3/10]
-138. Henrik Meierkord — Falling [3/10]
-139. Beyoncé - Cowboy Carter [3/10]
-140. Charly Bliss — FOREVER [3/10]
-141. State OFFF — Simulacra [3/10]
-142. LEATHERS — Ultraviolet [3/10]
-143. Your Arms Are My Cocoon – Death of a Rabbit [3/10]
-144. Tony Jay — Knife Is But A Dream [3/10]
-145. Heaven For Real — Hell's Logo's Pink [3/10]
-146. Joey Valence & Brae — No Hands [2/10]
-147. Jack White — No Name [2/10]
+14. Janel Leppin Ensemble Volcanic Ash - To March is to Love [7/10]
+15. Weronika Grozdew & Musos - Wandering Songs [7/10]
+16. Raphael Rogiński — Žaltys [7/10]
+17. Hakushi Hasegawa — Mah​ō​gakkō [7/10] (5)
+18. ØKSE — ØKSE [7/10]
+19. Tuleje — Puste ulice [7/10]↑? (2)
+20. JPEGMAFIA — I Lay Down My Life for You [7/10] (12)
+21. Kim Gordon — The Collective [7/10]↑
+22. Iglooghost — Tidal Memory Exo [7/10] (7)
+23. Cameron Winter — Heavy Metal [7/10] (3)
+24. Various Artists — Ulyap Songs: Beyond Circassian Tradition [7/10]
+25. Mabe Fratti — Sentir que no sabes [7/10] (10)
+26. Julius Gabriel – Tales from the Subterranean [6/10]↑↑?
+27. Chelsea Wolfe - She Reaches Out to She Reaches Out to She [6/10]↑?
+28. Lolina — Unrecognisable [6/10]
+29. James Blake & Lil Yachty — Bad Cameo [6/10]
+30. Maria Pomianowska & Friends — Dance of Suka [6/10]↑↑?
+31. Shane Parish — Repertoire [6/10]↑ (5)
+32. Mamaleek — Vida Blue [6/10]
+33. Malcolm Jiyane Tree-O — TRUE STORY [6/10]↑
+34. Tess Hirst — HERstory [6/10]↑↑ (2)
+35. bela — Noise and Cries (​​​굉​​​음​​​과 울​​​음​​​) [6/10]
+36. Vera Sola — Peacemaker [6/10] (4)
+37. Arooj Aftab — Night Reign [6/10]
+38. Mdou Moctar — Funeral for Justice [6/10]
+39. Jlin — Akoma [6/10]↓?
+40. HWI — humanly possible [6/10] (5)
+41. Amy Gadiaga — All Black Everything [6/10]↑? (6)
+42. Milkweed — Folklore 1979 [6/10]↑↑↑
+43. Antonina Nowacka — Sylphine Soporifera [6/10] (3)
+44. BABii — DareDeviil2000 [6/10] (3)
+45. Tyler, the Creator — Chromakopia [6/10]
+46. Mohammad Syfkhan – I Am Kurdish [6/10] (2)
+47. Ibrahim Maalouf — Trumpets of Michel-Ange [6/10]
+48. Armand Hammer — BLK LBL [6/10]↑?
+49. Esy Tadesse — Ahadu [6/10]
+50. Kessoncoda - Outerstate [6/10]
+51. Faraway Ghost & Sunken Cages — Ashk Haye Moghavemat [6/10]
+52. Amanda Whiting — The Liminality Of Her [6/10] (5)
+53. Magdalena Bay — Imaginal Disk [6/10] (4)
+54. Raveena — Where the Butterflies Go in the Rain [6/10] (3)
+55. Aziza Brahim — Mawja [6/10]
+56. Mary Ocher — Your Guide to Revolution [6/10]↓
+57. Al Wootton — Lifted From the Earth [6/10]↑
+58. Bagus Shidqi — Njondhal Njondhil [6/10]
+59. Clarissa Connelly — World of Work [6/10]↓
+60. yuzuha — Love Notes [6/10] (7)
+61. Lupe Fiasco - Samurai [6/10]
+62. Ravyn Lenae — Bird's Eye [6/10] (2)
+63. Black Ends — Psychotic Spew [6/10] (4)
+64. Terror/Cactus — Forastero [6/10] (5)
+65. Ulcerate — Cutting the Throat of God [6/10] (2)
+66. Haley Heynderickx — Seed of a Seed [5/10]↑
+67. Mamman Sani & Tropikal Camel — Nijerusalem [5/10] RELISTEN
+68. Juanita Stein  — The Weightless Hour [5/10] (2)
+69. Seefeel — Everything Squared [5/10] (2)
+70. Skee Mask — Resort [5/10]↑?
+71. Allie X — Girl With No Face [5/10]↑
+72. Ugly — Twice Around The Sun EP [5/10]
+73. The Dare — You Can Never Go Home [5/10]?
+74. L-R — V.O.S. [5/10]↑
+75. Peggy Gou — I Hear You [5/10]↑??? (4)
+76. Kelly Lee Owens — Dreamstate [5/10]↑??
+77. D'Monk — Shine [5/10]??↑
+78. Lollise — I hit the water [5/10]
+79. Emahoy Tsege Mariam Gebru — Souvenirs [5/10] RELISTEN
+80. Luna Li — When a Thought Grows Wings [5/10] (2)
+81. Georgie Greep — The New Sound [5/10]
+82. ROSÉ — Rosie [5/10]↑? (2)
+83. Hamish Hawk — A Firmer Hand [5/10]
+84. Pixey — Million Dollar Baby [5/10]↑
+85. St. Vincent — All Born Screaming [5/10]
+86. Rowena Wise — Senseless Acts of Beauty [5/10]
+87. Kee Avil — Spine [5/10]↑???
+88. Rachel Newton — Sealladh [5/10]
+89. Everything Everything — Moutainhead [5/10]
+90. Marika Hackman – Big Sigh [5/10]
+91. Ani DiFranco — Unprecedented Sh​!​t [5/10]↑
+92. Królestwo — Patho-Jazz [5/10]
+93. Papangu — Lampi​ã​o Rei [5/10] (3)
+94. Oval Angle — Figures of Speech [5/10]
+95. Kiasmos — II [5/10]
+96. Clairo — Charm [5/10]
+97. Ex-Easter Island Head  — Norther [5/10]
+98. Cassandra Jenkins — My Light, My Destroyer [5/10]
+99. Sex Swing — Golden Triangle [5/10]???
+100. Nubya Garcia — Odyssey  [5/10]
+101. Kamixlo — DEATHWORK [5/10]
+102. Rosie Lowe — Lover, Other [5/10]
+103. King Gizzard & The Lizard Wizard — Flight b741 [5/10]
+104. Dua Lipa — Radical Optimism [5/10]
+105. Kate Bollinger — Songs From a Thousand Frames of Mind [5/10]
+106. DJ Lycox — Guetto Star [5/10]
+107. Andrew Bird — Cunningham Bird [5/10]
+108. 表情银行[Mimik Banka] — 海马森林(Seahorse Forest) [5/10]
+109. Ringorrango — Bailarás en mi verbena [5/10]
+110. Tyla — TYLA [5/10]
+111. The Cure — Songs of a Lost World [5/10]
+112. Erika de Casier — Still [5/10]
+113. Patricia Taxxon — Bicycle [5/10]
+114. Katie Gavin — What A Relief [5/10]
+115. Chuck Johnson — Sun Glories [5/10]
+116. District Five — Come Closer [5/10]
+117. Ibibio Sound Machine — Pull the Rope [5/10]
+118. The Smile — Wall of Eyes [5/10]
+119. Adrianne Lenker — Bright Future [5/10]
+120. Taut & Tame — Rosy Crucifixion [5/10]
+121. SOPHIE — SOPHIE [4/10]
+122. Kamasi Washington — Fearless Movement [4/10]
+123. Mo Dotti — opaque [4/10]
+124. Chie Otomi — Touch Again [4/10]
+125. Kanye West & Ty Dolla $ign — Vultures [4/10]↓
+126. Godspeed You! Black Emperor — "No Title as of 13 February 2024 28,340 Dead" [4/10]
+127. Ghost In The Tapes — Holidays On Earth [4/10]
+128. Brijean — Macro [4/10]
+129. Vampire Weekend  — Only God Was Above Us [4/10]
+130. Joanna Wang — 破爛酒店 (Hotel la Rut) [4/10]
+131. samlrc — A Lonely Sinner [4/10]
+132. Blues Pills — Birthday [4/10]
+133. J.R.C.G. — Grim Iconic​.​.​.​(​Sadistic Mantra) [4/10]
+134. Kimbanourke — Binjari [4/10]
+135. NxWorries — Why Lawd? [4/10]
+136. Thee Marloes — Perak [4/10]
+137. Moin — You Never End [4/10]
+138. Charli XCX — brat [4/10]
+139. DRIFT. — 11 Points in Time [4/10]
+140. Sarah Jarosz — Polaroid Lovers [4/10]
+141. Claire Ozmun — Dying in the Wool [4/10]
+142. Robber Robber — Wild Guess [4/10]
+143. Aoife O'Donovan — All My Friends [4/10]
+144. Sophie Brown and Friends — Emerald Isle [4/10]
+145. Parannoul — Sky Hundred [4/10]
+146. Caput Medusae — You Can't Negotiate With Zombies [4/10]
+147. Diane Birch — Flying on Abraham [4/10]
+148. cayce crane — Jidaigeki Groove [4/10]
+149. Fat White Family — Forgiveness Is Yours [4/10]
+150. Iress — Sleep Now, In Reverse [4/10]
+151. Maya de Vitry — The Only Moment [4/10]
+152. Burgwela — Minstrel's Sōn [4/10]
+153. Cindy Lee — Diamond Jubilee [4/10]↓
+154. Pedro the Lion – Santa Cruz [3/10]
+155. Justice — Hyperdrama [3/10]
+156. MGMT — Loss Of Life [3/10]
+157. Remi Wolf — Big Ideas [3/10]
+158. Dead Rock Society - Black Metal Halloween [3/10]
+159. Nox Novacula — Feed The Fire [3/10]
+160. Henrik Meierkord — Falling [3/10]
+161. Beyoncé - Cowboy Carter [3/10]
+162. Charly Bliss — FOREVER [3/10]
+163. State OFFF — Simulacra [3/10]
+164. LEATHERS — Ultraviolet [3/10]
+165. Your Arms Are My Cocoon – Death of a Rabbit [3/10]
+166. Tony Jay — Knife Is But A Dream [3/10]
+167. Heaven For Real — Hell's Logo's Pink [3/10]
+168. Joey Valence & Brae — No Hands [2/10]
+169. Jack White — No Name [2/10]

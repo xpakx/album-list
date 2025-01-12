@@ -208,33 +208,5 @@
         "type": "new",
         "to": "3",
         "date": "05-01-2025"
-    },
-    {
-        "artist": "Shane Parish",
-        "title": "Repertoire (5)",
-        "type": "new",
-        "to": "6",
-        "date": "12-01-2025"
-    },
-    {
-        "artist": "Raven Lenae",
-        "title": "Bird's Eye",
-        "type": "new",
-        "to": "6",
-        "date": "12-01-2025"
-    },
-    {
-        "artist": "Black Ends",
-        "title": "Psychotic Spew (4)",
-        "type": "new",
-        "to": "6",
-        "date": "12-01-2025"
-    },
-    {
-        "artist": "Terror/Cactus",
-        "title": "Forastero (5)",
-        "type": "new",
-        "to": "6",
-        "date": "12-01-2025"
     }
 ]
