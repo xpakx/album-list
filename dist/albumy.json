@@ -249,9 +249,9 @@
     {
         "number": "28",
         "artist": "Shane Parish",
-        "title": "Repertoire (5)",
+        "title": "Repertoire",
         "rating": "6",
-        "listens": "",
+        "listens": "5",
         "rated_at": "05-01-2025",
         "id": "35c8eff1-14ef-4a7e-8c79-3ec83d84a54f",
         "image": true
@@ -528,7 +528,7 @@
     },
     {
         "number": "59",
-        "artist": "Raven Lenae",
+        "artist": "Ravyn Lenae",
         "title": "Bird's Eye",
         "rating": "6",
         "listens": "2",
@@ -538,18 +538,18 @@
     {
         "number": "60",
         "artist": "Black Ends",
-        "title": "Psychotic Spew (4)",
+        "title": "Psychotic Spew",
         "rating": "6",
-        "listens": "",
+        "listens": "4",
         "rated_at": "05-01-2025",
         "id": "1d677240-86c7-44bb-b9f5-8b469d4b40e9"
     },
     {
         "number": "61",
         "artist": "Terror/Cactus",
-        "title": "Forastero (5)",
+        "title": "Forastero",
         "rating": "6",
-        "listens": "",
+        "listens": "5",
         "rated_at": "05-01-2025",
         "id": "5e440dfb-4f2b-481e-a2da-26f3ea461328"
     },
