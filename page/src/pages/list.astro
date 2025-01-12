@@ -1,0 +1,126 @@
+---
+import Layout from '../layouts/Layout.astro';
+import albums from '../data/albumy.json'
+---
+
+<Layout title="All albums">
+    <main>
+        <h1>Full List</h1>
+        <ol id="album-list">
+	{
+		albums.map(({ number, artist, title, id, listens, rating }) => (
+		    <li class="album">
+			<div class="album-info">
+			        <div class="album-header">
+					<strong>{number}.</strong>
+					<span class="artist">{artist}</span>
+					— 
+					{title}
+				</div>
+			        <div class="album-footer">
+					<div class="rating">{rating}/10</div>
+					<div class="listen-count">{listens}</div>
+			        </div>
+			</div>
+		    </li>
+	))
+	}
+        </ol>
+    </main>
+</Layout>
+
+<style>
+	#album-list {
+	    max-width: 1200px;
+	    margin: 0 auto;
+	    padding: 20px;
+	    list-style: none;
+	}
+
+	.album-footer {
+		display: flex;
+		gap: 5px;
+	}
+
+	.listen-count, .rating {
+	    font-size: 12px;
+	    color: #777;
+	}
+
+	.listen-count::before {
+	    content: '🎧';
+	    margin-right: 2px;
+	}
+
+	.rating::before {
+	    content: '⭐';
+	    margin-right: 2px;
+	}
+
+	h1 {
+	    text-align: center;
+	    color: #333;
+	    margin-bottom: 40px;
+	}
+
+	.album {
+	    background-color: #fff;
+	    overflow: hidden;
+	    width: calc(100% - 20px);
+	    transition: transform 0.3s ease;
+	    padding: 0 10px;
+	}
+
+	.album:nth-child(even) {
+	    background-color: #f6f6f6;
+	}
+
+	.album-info {
+	    width: 100%;
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-between;
+	}
+
+	.album-header {
+	    padding: 15px;
+	}
+
+	.album-header .artist {
+	    color: #333;
+	    font-weight: 700;
+	}
+
+	.album-info p {
+	    font-size: 14px;
+	    color: #777;
+	}
+
+	.album:hover {
+	    transform: translateX(-5px);
+	}
+
+	.rating {
+	    font-size: 12px;
+	    color: #777;
+	}
+
+	.rating::before {
+	    content: '⭐';
+	    margin-right: 2px;
+	}
+
+
+	@media (max-width: 480px) {
+	    .album-info {
+	            width: revert;
+	    }
+
+	    .album {
+		    flex-direction: column;
+		    text-align: center;
+	    }
+	}
+
+</style>
+
