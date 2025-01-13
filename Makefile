@@ -2,7 +2,7 @@ all: dist/albumy.json
 
 dist/albumy.json: data/albumy.json
 	@echo "Fetching album covers..."
-	python3 cover/cover/main.py
+	python3 cover/cover/main.py albumy.json
 	python3 cleaner/cleaner/main.py
 
 data/albumy.json: data/albumy.org
