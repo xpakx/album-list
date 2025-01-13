@@ -3,6 +3,8 @@ import requests
 from pathlib import Path
 import time
 from datetime import datetime
+import argparse
+
 
 USER_AGENT = "AlbumList/0.1 ( github.com/xpakx/albums )"
 
@@ -72,10 +74,18 @@ def checkFile(id):
 
 
 def main():
-    with open('data/albumy.json') as f:
+    parser = argparse.ArgumentParser(description="Download covers.")
+    parser.add_argument('input_file', type=str, help="Input file path (e.g., input.json)")
+    parser.add_argument('--changes', type=str, default="changes.json", help="File with changes")
+    args = parser.parse_args()
+    filename = 'data/' + args.input_file
+    changefile = 'dist/' + args.changes
+    outputfile = 'dist/' + args.input_file
+
+    with open(filename) as f:
         albums = json.load(f)
-    cached = getFromFile('dist/albumy.json')
-    changes = getFromFile('dist/changes.json')
+    cached = getFromFile(outputfile)
+    changes = getFromFile(changefile)
     today = datetime.today().strftime('%d-%m-%Y')
 
     for album in albums:
@@ -138,8 +148,8 @@ def main():
             album['image'] = False
             print("Album not found in MusicBrainz")
 
-    saveTo(json.dumps(albums, indent=4), "dist/albumy.json")
-    saveTo(json.dumps(changes, indent=4), "dist/changes.json")
+    saveTo(json.dumps(albums, indent=4), outputfile)
+    saveTo(json.dumps(changes, indent=4), changefile)
 
 
 if __name__ == "__main__":
