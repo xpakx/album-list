@@ -77,10 +77,11 @@ def main():
     parser = argparse.ArgumentParser(description="Download covers.")
     parser.add_argument('input_file', type=str, help="Input file path (e.g., input.json)")
     parser.add_argument('--changes', type=str, default="changes.json", help="File with changes")
+    parser.add_argument('--out', type=str, default="output.json", help="Output file")
     args = parser.parse_args()
-    filename = 'data/' + args.input_file
+    filename = args.input_file
     changefile = 'dist/' + args.changes
-    outputfile = 'dist/' + args.input_file
+    outputfile = args.out
 
     with open(filename) as f:
         albums = json.load(f)
