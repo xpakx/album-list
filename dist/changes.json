@@ -362,5 +362,40 @@
         "type": "new",
         "to": "4",
         "date": "12-01-2025"
+    },
+    {
+        "artist": "Dora Jar",
+        "title": "No Way To Relax When You Are On Fire",
+        "type": "new",
+        "to": "6",
+        "date": "13-01-2025"
+    },
+    {
+        "artist": "Rachel Chinouriri",
+        "title": "What A Devastating Turn of Events",
+        "type": "new",
+        "to": "6",
+        "date": "13-01-2025"
+    },
+    {
+        "artist": "Alex Winston",
+        "title": "Bingo!",
+        "type": "new",
+        "to": "5",
+        "date": "13-01-2025"
+    },
+    {
+        "artist": "Wallice",
+        "title": "The Jester",
+        "type": "new",
+        "to": "5",
+        "date": "13-01-2025"
+    },
+    {
+        "artist": "Paris Hilton",
+        "title": "Infinite Icon",
+        "type": "new",
+        "to": "3",
+        "date": "13-01-2025"
     }
 ]
