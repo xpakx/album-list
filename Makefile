@@ -7,8 +7,7 @@ all: $(OUTPUTS)
 
 dist/%.json: data/%.json
 	@echo "Fetching album covers for $*..."
-	$(eval CHANGELOG := $(if $(filter albumy,$*),dist/changes.json,dist/$*_changes.json))
-	python3 cover/cover/main.py --out dist/$*.json --changelog $(CHANGELOG) data/$*.json
+	python3 cover/cover/main.py --out dist/$*.json --changelog $(if $(filter albumy,$*),dist/changes.json,dist/$*_changes.json) data/$*.json
 
 data/%.json: data/%.org
 	@echo "Generating json from org-mode file for $*..."
@@ -16,5 +15,5 @@ data/%.json: data/%.org
 
 clean:
 	@echo "Cleaning up..."
-	rm -f data/albumy.json
-	rm -f dist/albumy.json
+	rm -f $(patsubst %,data/%.json,$(YEARS)) 
+	rm -f $(patsubst %,dist/%.json,$(YEARS))
