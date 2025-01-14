@@ -76,11 +76,11 @@ def checkFile(id):
 def main():
     parser = argparse.ArgumentParser(description="Download covers.")
     parser.add_argument('input_file', type=str, help="Input file path (e.g., input.json)")
-    parser.add_argument('--changes', type=str, default="changes.json", help="File with changes")
+    parser.add_argument('--changelog', type=str, default="changes.json", help="File with changes")
     parser.add_argument('--out', type=str, default="output.json", help="Output file")
     args = parser.parse_args()
     filename = args.input_file
-    changefile = 'dist/' + args.changes
+    changefile = args.changelog
     outputfile = args.out
 
     with open(filename) as f:

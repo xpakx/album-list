@@ -1,4 +1,4 @@
-YEARS := albumy
+YEARS := albumy 2024
 OUTPUTS := $(patsubst %,dist/%.json,$(YEARS))
 
 all: $(OUTPUTS)
@@ -7,7 +7,8 @@ all: $(OUTPUTS)
 
 dist/%.json: data/%.json
 	@echo "Fetching album covers for $*..."
-	python3 cover/cover/main.py --out dist/$*.json data/$*.json
+	$(eval CHANGELOG := $(if $(filter albumy,$*),dist/changes.json,dist/$*_changes.json))
+	python3 cover/cover/main.py --out dist/$*.json --changelog $(CHANGELOG) data/$*.json
 
 data/%.json: data/%.org
 	@echo "Generating json from org-mode file for $*..."
