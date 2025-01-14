@@ -34,18 +34,19 @@ const dataFilePath = path.join(process.cwd(), 'src', 'data', `${year}.json`);
 const albums: YearData[] = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
 ---
 
-<Layout title="Albums">
+<Layout title="All albums">
     <main>
-	    <h1>My Top 30 Albums of the {year}</h1>
+	    <h1>Full {year} List</h1>
         <ol id="album-list">
 	{
-		albums.slice(0, 30).map(({ artist, title, id, image, listens, rating }) => (
+		albums.map(({ number, artist, title, listens, rating }) => (
 		    <li class="album">
-			<img src={`../../${image ? id : "empty"}.jpg`} alt="Album Cover">
 			<div class="album-info">
 			        <div class="album-header">
-					<h2>{title}</h2>
-					<p>{artist}</p>
+					<strong>{number}.</strong>
+					<span class="artist">{artist}</span>
+					— 
+					{title}
 				</div>
 			        <div class="album-footer">
 					<div class="rating">{rating}/10</div>
@@ -67,54 +68,9 @@ const albums: YearData[] = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
 	    list-style: none;
 	}
 
-	h1 {
-	    text-align: center;
-	    color: #333;
-	    margin-bottom: 40px;
-	}
-
-	.album {
-	    background-color: #fff;
-	    border-radius: 8px;
-	    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-	    overflow: hidden;
-	    width: calc(100% - 20px);
-	    transition: transform 0.3s ease;
-	    margin-bottom: 20px;
-	    display: flex;
-	}
-
 	.album-footer {
-	    display: flex;
-	    justify-content: end;
-	    gap: 5px;
-	}
-
-	.album img {
-		width: 150px;
-	}
-
-	.album-info {
-	    padding: 15px;
-	    width: 100%;
-	    display: flex;
-	    flex-direction: column;
-	    justify-content: space-between;
-	}
-
-	.album-info h2 {
-	    font-size: 18px;
-	    color: #333;
-	    margin: 10px 0 5px;
-	}
-
-	.album-info p {
-	    font-size: 14px;
-	    color: #777;
-	}
-
-	.album:hover {
-	    transform: translateX(-5px);
+		display: flex;
+		gap: 5px;
 	}
 
 	.listen-count, .rating {
@@ -132,10 +88,59 @@ const albums: YearData[] = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
 	    margin-right: 2px;
 	}
 
-	@media (max-width: 768px) {
-	    .album {
-	    }
+	h1 {
+	    text-align: center;
+	    color: #333;
+	    margin-bottom: 40px;
 	}
+
+	.album {
+	    background-color: #fff;
+	    overflow: hidden;
+	    width: calc(100% - 20px);
+	    transition: transform 0.3s ease;
+	    padding: 0 10px;
+	}
+
+	.album:nth-child(even) {
+	    background-color: #f6f6f6;
+	}
+
+	.album-info {
+	    width: 100%;
+	    display: flex;
+	    align-items: center;
+	    justify-content: space-between;
+	}
+
+	.album-header {
+	    padding: 15px;
+	}
+
+	.album-header .artist {
+	    color: #333;
+	    font-weight: 700;
+	}
+
+	.album-info p {
+	    font-size: 14px;
+	    color: #777;
+	}
+
+	.album:hover {
+	    transform: translateX(-5px);
+	}
+
+	.rating {
+	    font-size: 12px;
+	    color: #777;
+	}
+
+	.rating::before {
+	    content: '⭐';
+	    margin-right: 2px;
+	}
+
 
 	@media (max-width: 480px) {
 	    .album-info {
@@ -145,14 +150,6 @@ const albums: YearData[] = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
 	    .album {
 		    flex-direction: column;
 		    text-align: center;
-	    }
-
-	    .album-footer {
-		    justify-content: center;
-	    }
-
-	    .album img {
-		    width: 100%;
 	    }
 	}
 
