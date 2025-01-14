@@ -1,4 +1,4 @@
-YEARS := albumy 2024
+YEARS := albumy 2025
 OUTPUTS := $(patsubst %,dist/%.json,$(YEARS))
 
 all: $(OUTPUTS)

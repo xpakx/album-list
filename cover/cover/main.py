@@ -127,6 +127,10 @@ def main():
             print("Position is beyond the first 30 items. Skipping cover fetching...")
             continue
 
+        if int(album['rating']) < 6:
+            print("Rating is lower than 6. Skipping cover fetching...")
+            continue
+
         if album['id']:
             filename = f"dist/{album['id']}.jpg"
             cover_file = Path(filename)
