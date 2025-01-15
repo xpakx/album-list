@@ -2,8 +2,8 @@ YEARS := albumy 2025
 OUTPUTS := $(patsubst %,dist/%.json,$(YEARS))
 
 all: $(OUTPUTS)
-#	@echo "Cleaning..."
-#	python3 cleaner/cleaner/main.py
+	@echo "Cleaning..."
+	python3 cleaner/cleaner/main.py $(OUTPUTS)
 
 dist/%.json: data/%.json
 	@echo "Fetching album covers for $*..."
