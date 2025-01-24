@@ -36,7 +36,7 @@ const albums: YearData[] = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
 
 <Layout title="Albums">
     <main>
-	    <h1>My Top 30 Albums of the {year}</h1>
+	    <h1>My Top 30 Albums of {year}</h1>
         <ol id="album-list">
 	{
 	albums.slice(0, 30).filter(x => parseInt(x.rating) >= 6).map(({ artist, title, id, image, listens, rating }) => (
