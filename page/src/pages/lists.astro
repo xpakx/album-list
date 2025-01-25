@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Layout.astro';
+import fs from 'fs';
+import path from 'path';
+
+const dataDir = path.join(process.cwd(), 'src', 'data');
+const files = fs.readdirSync(dataDir).filter(file => {
+  return /^\d{4}\.json$/.test(file);
+});
+
+const years = files.map(file => file.replace('.json', ''));
+---
+
+<Layout title="Lists">
+    <main>
+	    <h1>All lists</h1>
+	    <ul id="album-list">
+	    {
+		    years.map((year) => (
+		    <li class="list">
+			    <a href={`/${year}`}>{year}</a>
+		    </li>
+		    ))
+	    }
+        </ul>
+    </main>
+</Layout>
+
+<style>
+	#album-list {
+	    max-width: 1200px;
+	    margin: 0 auto;
+	    padding: 20px;
+	    list-style: none;
+	}
+
+	h1 {
+	    text-align: center;
+	    color: #333;
+	    margin-bottom: 40px;
+	}
+
+	.list:hover {
+	    transform: translateX(-5px);
+	}
+</style>
+
