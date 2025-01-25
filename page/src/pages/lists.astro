@@ -8,7 +8,10 @@ const files = fs.readdirSync(dataDir).filter(file => {
   return /^\d{4}\.json$/.test(file);
 });
 
-const years = files.map(file => file.replace('.json', ''));
+const years = files
+	.map(file => file.replace('.json', ''))
+	.map(year => parseInt(year))
+	.sort((a, b) => b - a);
 ---
 
 <Layout title="Lists">
@@ -16,11 +19,11 @@ const years = files.map(file => file.replace('.json', ''));
 	    <h1>All lists</h1>
 	    <ul id="album-list">
 	    {
-		    years.map((year) => (
-		    <li class="list">
-			    <a href={`/${year}`}>{year}</a>
-		    </li>
-		    ))
+		years.map((year) => (
+		<li>
+			<a href={`/${year}`}>{year}</a>
+		</li>
+		))
 	    }
         </ul>
     </main>
@@ -38,10 +41,6 @@ const years = files.map(file => file.replace('.json', ''));
 	    text-align: center;
 	    color: #333;
 	    margin-bottom: 40px;
-	}
-
-	.list:hover {
-	    transform: translateX(-5px);
 	}
 </style>
 
