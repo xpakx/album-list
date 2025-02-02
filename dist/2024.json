@@ -3,7 +3,7 @@
         "number": "1",
         "artist": "Darius Jones",
         "title": "Legend of e'Boi (The Hypervigilant Eye)",
-        "rating": "7",
+        "rating": "8",
         "listens": "6",
         "id": "031e5a14-1ed9-424e-97b6-fd4ac2f5c0c5",
         "image": true,
@@ -13,7 +13,7 @@
         "number": "2",
         "artist": "Julia Holter",
         "title": "Something in the Room She Moves",
-        "rating": "7",
+        "rating": "8",
         "listens": "11",
         "id": "bcfd49e6-a6fa-4d26-af05-12264fa664e2",
         "image": true
@@ -22,7 +22,7 @@
         "number": "3",
         "artist": "Amaro Freitas",
         "title": "Y'Y",
-        "rating": "7",
+        "rating": "8",
         "listens": "11",
         "id": "2fa18501-371e-4cfe-8e2d-afcb47a80fda",
         "image": true
@@ -31,7 +31,7 @@
         "number": "4",
         "artist": "Mary Halvorson",
         "title": "Cloudward",
-        "rating": "7",
+        "rating": "8",
         "listens": "12",
         "id": "07d0e952-d941-4f2e-9f3a-cbb3b7e84c85",
         "image": true
@@ -40,7 +40,7 @@
         "number": "5",
         "artist": "Nina Reiter's MetaLogue",
         "title": "evolving",
-        "rating": "7",
+        "rating": "8",
         "listens": "7",
         "id": "metalogue2024",
         "image": true
@@ -49,7 +49,7 @@
         "number": "6",
         "artist": "Ana Lua Caiano",
         "title": "Vou ficar neste quadrado",
-        "rating": "7",
+        "rating": "8",
         "listens": "10",
         "id": "4de24744-c81a-4ff1-8b66-a1b641fec78a",
         "image": true
@@ -58,8 +58,8 @@
         "number": "7",
         "artist": "Patricia Brennan Septet",
         "title": "Breaking Stretch",
-        "rating": "7",
-        "listens": "3",
+        "rating": "8",
+        "listens": "5",
         "id": "0d8e132e-e4be-43b9-a3cd-d32287842ee9",
         "image": true,
         "rated_at": "02-02-2025"

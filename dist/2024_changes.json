@@ -418,5 +418,61 @@
         "type": "new",
         "to": "7",
         "date": "02-02-2025"
+    },
+    {
+        "artist": "Darius Jones",
+        "title": "Legend of e'Boi (The Hypervigilant Eye)",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Julia Holter",
+        "title": "Something in the Room She Moves",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Amaro Freitas",
+        "title": "Y'Y",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Mary Halvorson",
+        "title": "Cloudward",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Nina Reiter's MetaLogue",
+        "title": "evolving",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Ana Lua Caiano",
+        "title": "Vou ficar neste quadrado",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
+    },
+    {
+        "artist": "Patricia Brennan Septet",
+        "title": "Breaking Stretch",
+        "type": "rating",
+        "from": "8",
+        "to": "7",
+        "date": "02-02-2025"
     }
 ]
