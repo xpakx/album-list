@@ -3,13 +3,13 @@
 :END:
 #+title: Albumy 2024
 * Odsłuchane
-1. Darius Jones — Legend of e'Boi (The Hypervigilant Eye) [7/10] (6)
-2. Julia Holter — Something in the Room She Moves [7/10] (11)
-3. Amaro Freitas - Y'Y [7/10]↑ (11)
-4. Mary Halvorson — Cloudward [7/10] (12)
-5. Nina Reiter's MetaLogue — evolving [7/10] (7)
-6. Ana Lua Caiano — Vou ficar neste quadrado [7/10]↑ (10)
-7. Patricia Brennan Septet — Breaking Stretch [7/10] (3)
+1. Darius Jones — Legend of e'Boi (The Hypervigilant Eye) [8/10] (6)
+2. Julia Holter — Something in the Room She Moves [8/10] (11)
+3. Amaro Freitas - Y'Y [8/10]↑ (11)
+4. Mary Halvorson — Cloudward [8/10] (12)
+5. Nina Reiter's MetaLogue — evolving [8/10] (7)
+6. Ana Lua Caiano — Vou ficar neste quadrado [8/10]↑ (10)
+7. Patricia Brennan Septet — Breaking Stretch [8/10] (5)
 8. Yuki Fujiwara — Glass Colored Lily [7/10]
 9. Beth Gibbons — Lives Outgrown [7/10] (5)
 10. Jessica Pratt — Here in The Pitch [7/10] (5)
