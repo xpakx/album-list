@@ -104,8 +104,8 @@ def main():
                     'artist': artist,
                     'title': title,
                     'type': 'rating',
-                    'from': album['rating'],
-                    'to': cached_album['rating'],
+                    'from': cached_album['rating'],
+                    'to': album['rating'],
                     'date': today
                     })
             if 'rated_at' in cached_album:
