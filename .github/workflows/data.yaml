@@ -87,8 +87,7 @@ jobs:
       - name: Copy json data
         run: |
           mkdir -p build/page/src/data/
-          cp data/dist/albumy.json build/page/src/data/
-          cp data/dist/changes.json build/page/src/data/
+          cp data/dist/*.json build/page/src/data/
 
       - name: Copy images
         run: |
