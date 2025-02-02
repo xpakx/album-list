@@ -5,19 +5,19 @@
         "title": "Eusexua",
         "rating": "7",
         "listens": "6",
-        "rated_at": "02-02-2025",
         "id": "fka2025",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "2",
         "artist": "Anna B Savage",
         "title": "You & I Are Earth",
         "rating": "6",
-        "listens": "",
-        "rated_at": "02-02-2025",
+        "listens": "1",
         "id": "8e5e3172-6e5b-4bd6-8945-8fb5f7601bcb",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "3",
@@ -25,19 +25,19 @@
         "title": "H\u00e9ritage",
         "rating": "6",
         "listens": "2",
-        "rated_at": "02-02-2025",
         "id": "29f02b70-36bf-43eb-83dc-b6245bc79d1e",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "4",
         "artist": "Ale Hop & Titi Bakorta",
         "title": "Mapambazuko",
         "rating": "6",
-        "listens": "",
-        "rated_at": "02-02-2025",
+        "listens": "1",
         "id": "da11608d-bb6a-44f5-9fef-2f0d3294e671",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "5",
@@ -45,353 +45,388 @@
         "title": "Louder, Please",
         "rating": "6",
         "listens": "6",
-        "rated_at": "02-02-2025",
         "id": "c5c7313f-e398-4987-8f33-69c1ae4ea109",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "6",
         "artist": "Bridget Hayden",
         "title": "Cold Blows the Rain",
         "rating": "6",
-        "listens": "",
-        "rated_at": "02-02-2025",
+        "listens": "1",
         "id": "db8b0325-230f-4e80-8f0d-262c5e2f4799",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "7",
         "artist": "Crochet",
         "title": "Cherish",
         "rating": "6",
-        "listens": "",
-        "rated_at": "02-02-2025",
+        "listens": "1",
         "id": "e8a4d8d4-a7d6-4270-900d-33a4c13a5795",
-        "image": true
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "8",
         "artist": "Shinsei Kamattechan",
         "title": "Danchi Thesis",
         "rating": "6",
-        "listens": "",
-        "rated_at": "02-02-2025",
+        "listens": "1",
         "id": null,
-        "image": false
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "9",
         "artist": "Maddie Jay",
         "title": "I Can Change Your Mind",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "5ceb2997-9c20-4e1f-88a8-1fc3684539b1"
+        "listens": "1",
+        "id": "5ceb2997-9c20-4e1f-88a8-1fc3684539b1",
+        "image": true,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "10",
         "artist": "Ela Minus",
         "title": "D\u200b\u00cd\u200bA",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "3d707d7a-9fbc-4585-923c-8dc98a3c2093"
+        "listens": "1",
+        "id": "3d707d7a-9fbc-4585-923c-8dc98a3c2093",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "11",
         "artist": "The Weeknd",
         "title": "Hurry Up Tomorrow",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "f2fb8e86-8c0b-4d88-b6ad-a8dba5318c6c"
+        "listens": "1",
+        "id": "f2fb8e86-8c0b-4d88-b6ad-a8dba5318c6c",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "12",
         "artist": "Blue Lake",
         "title": "Weft",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "8b9e4afa-bf81-4125-a08f-e1db18b1310b"
+        "listens": "1",
+        "id": "8b9e4afa-bf81-4125-a08f-e1db18b1310b",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "13",
         "artist": "Moonchild Sanelly",
         "title": "Full Moon",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "1f098afc-a880-49f2-a2ea-0bca5fbc1d37"
+        "listens": "1",
+        "id": "1f098afc-a880-49f2-a2ea-0bca5fbc1d37",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "14",
         "artist": "Franz Ferdinand",
         "title": "The Human Fear",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "87750cf5-d24f-4fb3-a40a-b9b0c61ef353"
+        "listens": "1",
+        "id": "87750cf5-d24f-4fb3-a40a-b9b0c61ef353",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "15",
         "artist": "Joya Marleen",
         "title": "the wind is picking up",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "dd2bccc1-4eea-4184-95b6-0a3889de6719"
+        "listens": "1",
+        "id": "dd2bccc1-4eea-4184-95b6-0a3889de6719",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "16",
         "artist": "Alessi Rose",
         "title": "for your validation",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "884db7dc-55d4-41f2-91d6-f871cea9627e"
+        "listens": "1",
+        "id": "884db7dc-55d4-41f2-91d6-f871cea9627e",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "17",
         "artist": "Shedfromthebody",
         "title": "Whisper and Wane",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "15aca196-7b5c-4d63-8d4c-1d711c256dd9"
+        "listens": "1",
+        "id": "15aca196-7b5c-4d63-8d4c-1d711c256dd9",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "18",
         "artist": "The Weather Station",
         "title": "Humanhood",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "01255a37-9511-46f6-8bf5-b7c0430b219d"
+        "listens": "1",
+        "id": "01255a37-9511-46f6-8bf5-b7c0430b219d",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "19",
         "artist": "Matt Berry",
         "title": "Heard Noises",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "03069c6a-7f3b-4f5a-8a24-030175abc375"
+        "listens": "1",
+        "id": "03069c6a-7f3b-4f5a-8a24-030175abc375",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "20",
         "artist": "Myriad Myriads",
         "title": "All The Hits",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "08f63e58-e89e-44e4-831c-a7a00eec6bed"
+        "listens": "1",
+        "id": "08f63e58-e89e-44e4-831c-a7a00eec6bed",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "21",
         "artist": "RoRo",
         "title": "Hot Hits",
         "rating": "5",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "fac926fe-53aa-44c4-8f39-2872facc1090"
+        "listens": "1",
+        "id": "fac926fe-53aa-44c4-8f39-2872facc1090",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "22",
         "artist": "Nia Narudata",
         "title": "Still Living With My Parents",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": null
+        "listens": "1",
+        "id": null,
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "23",
         "artist": "Legendary Pink Dots",
         "title": "So Lonely In Heaven",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "091d1060-11bd-4b4d-a10e-a8b7ca452441"
+        "listens": "1",
+        "id": "091d1060-11bd-4b4d-a10e-a8b7ca452441",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "24",
         "artist": "Rob Goraieb",
         "title": "Antenna",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "3b77250c-52bc-48c8-9b5b-18ae7232cd57"
+        "listens": "1",
+        "id": "3b77250c-52bc-48c8-9b5b-18ae7232cd57",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "25",
         "artist": "moribet",
         "title": "So, Ho Hum",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "e1396e5c-16c1-495d-abca-1e219947b345"
+        "listens": "1",
+        "id": "e1396e5c-16c1-495d-abca-1e219947b345",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "26",
         "artist": "Geowulf",
         "title": "The Child",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "9a3f50d0-4eb8-4c86-a94d-1b4bd1bb0dfd"
+        "listens": "1",
+        "id": "9a3f50d0-4eb8-4c86-a94d-1b4bd1bb0dfd",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "27",
         "artist": "Ayumi Ishito",
         "title": "Roboquarians, Vol. 2",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "047f4ebb-0029-4323-820a-04a146e9e038"
+        "listens": "1",
+        "id": "047f4ebb-0029-4323-820a-04a146e9e038",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "28",
         "artist": "Quinton Barnes",
         "title": "Code Noir",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "6a124ba2-635f-4b9d-96ae-2975bd92c3f0"
+        "listens": "1",
+        "id": "6a124ba2-635f-4b9d-96ae-2975bd92c3f0",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "29",
         "artist": "Zach Phillips",
         "title": "True Music",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "af4f4978-322d-44cc-933a-f5aefd15afa2"
+        "listens": "1",
+        "id": "af4f4978-322d-44cc-933a-f5aefd15afa2",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "30",
         "artist": "Vilhelm Buchaus",
         "title": "Quiet Rooms",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "e1e5aad6-9b22-46da-82e5-1dd36a0579aa"
+        "listens": "1",
+        "id": "e1e5aad6-9b22-46da-82e5-1dd36a0579aa",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "31",
         "artist": "Victoria Canal",
         "title": "Slowly, It Dawns",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "0f1a2a60-c261-46a3-a98c-277dee4b71db"
+        "listens": "1",
+        "id": "0f1a2a60-c261-46a3-a98c-277dee4b71db",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "32",
         "artist": "Bad Bunny",
         "title": "Deb\u00ed tirar m\u00e1s fotos",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc"
+        "listens": "1",
+        "id": "c9e6b642-a6d9-4b22-8ec1-16c47b6143fc",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "33",
         "artist": "Lambrini Girls",
         "title": "Who Let The Dogs Out",
         "rating": "4",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "091e6f6a-cf0f-4d95-9985-0042bbc4a2d7"
+        "listens": "1",
+        "id": "091e6f6a-cf0f-4d95-9985-0042bbc4a2d7",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "34",
         "artist": "Matthewdavid",
         "title": "100% Zithertronics",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "d3458279-dfc8-4845-8785-a20df6e2e3b2"
+        "listens": "1",
+        "id": "d3458279-dfc8-4845-8785-a20df6e2e3b2",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "35",
         "artist": "Ethel Cain",
         "title": "Perverts",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "b46c959a-8474-47bf-80f9-df75a8435598"
+        "listens": "1",
+        "id": "b46c959a-8474-47bf-80f9-df75a8435598",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "36",
         "artist": "Asian Glow",
         "title": "11100011",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "00de483c-05bb-4962-a7b3-555649ef3a29"
+        "listens": "1",
+        "id": "00de483c-05bb-4962-a7b3-555649ef3a29",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "37",
         "artist": "good flying birds",
         "title": "talulah's tape",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "daa44a24-be79-4160-af28-37245812de75"
+        "listens": "1",
+        "id": "daa44a24-be79-4160-af28-37245812de75",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "38",
         "artist": "Willow Avalon",
         "title": "Southern Belle Raisin' Hell",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "d905b623-f547-49d8-b3bb-544595a84965"
+        "listens": "1",
+        "id": "d905b623-f547-49d8-b3bb-544595a84965",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "39",
         "artist": "Tigress",
         "title": "Are You B-O-R-E-D?",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "88c2dae9-ab1e-4fe4-b4a7-fcf9b5df3301"
+        "listens": "1",
+        "id": "88c2dae9-ab1e-4fe4-b4a7-fcf9b5df3301",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "40",
         "artist": "jasmine.4.t",
         "title": "You Are The Morning",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "986b2849-60e1-40bb-b57d-1d0bf10e8873"
+        "listens": "1",
+        "id": "986b2849-60e1-40bb-b57d-1d0bf10e8873",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "41",
         "artist": "Kaho Matsui",
         "title": "Absolver, Kill Me While My Eyes Are Closed",
         "rating": "3",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "3ae226eb-0462-43bc-9918-776e7df79755"
+        "listens": "1",
+        "id": "3ae226eb-0462-43bc-9918-776e7df79755",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "42",
         "artist": "Dina Summer",
         "title": "Girls Gang",
         "rating": "2",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "ad94e9a6-5154-496a-b1a2-5123212aaf15"
+        "listens": "1",
+        "id": "ad94e9a6-5154-496a-b1a2-5123212aaf15",
+        "image": false,
+        "rated_at": "02-02-2025"
     },
     {
         "number": "43",
         "artist": "Ringo Starr",
         "title": "Look Up",
         "rating": "2",
-        "listens": "",
-        "rated_at": "02-02-2025",
-        "id": "f5a1ef21-5bb8-497a-8d54-c2d655d71f17"
+        "listens": "1",
+        "id": "f5a1ef21-5bb8-497a-8d54-c2d655d71f17",
+        "image": false,
+        "rated_at": "02-02-2025"
     }
 ]
