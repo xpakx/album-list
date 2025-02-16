@@ -276,10 +276,10 @@
         "artist": "Half Empty Glasshouse",
         "title": "The Exit is Over There!",
         "rating": "7",
-        "listens": "",
-        "rated_at": "16-02-2025",
+        "listens": "1",
         "id": "1dd661ed-144f-4a9f-91a0-c76f278207b7",
-        "image": true
+        "image": true,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "31",
@@ -295,9 +295,10 @@
         "artist": "Antonina Car & Niczos",
         "title": "To\u0144",
         "rating": "6",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "46b7e00e-eea0-4224-a5a8-b0616202bfe2"
+        "listens": "1",
+        "id": "46b7e00e-eea0-4224-a5a8-b0616202bfe2",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "33",
@@ -449,9 +450,10 @@
         "artist": "Nala Sinephro",
         "title": "Endlessness",
         "rating": "6",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "431d2e9d-580a-452c-b213-67da3ec292ec"
+        "listens": "1",
+        "id": "431d2e9d-580a-452c-b213-67da3ec292ec",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "50",
@@ -544,9 +546,10 @@
         "artist": "Meaningful Stone [\uae40\ub73b\ub3cc]",
         "title": "Angel Interview",
         "rating": "6",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "bd76bd04-f561-47f9-bb45-d458fe681bc6"
+        "listens": "1",
+        "id": "bd76bd04-f561-47f9-bb45-d458fe681bc6",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "60",
@@ -675,8 +678,9 @@
         "title": "Villain",
         "rating": "6",
         "listens": "2",
-        "rated_at": "16-02-2025",
-        "id": "64fb7487-ca4f-4ff9-a924-c5044feb6782"
+        "id": "64fb7487-ca4f-4ff9-a924-c5044feb6782",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "74",
@@ -741,9 +745,10 @@
         "artist": "Nils \u00d8kland Band",
         "title": "Gjenskinn",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "29b229d2-3eaa-4777-be7d-2777c4c9b5a0"
+        "listens": "1",
+        "id": "29b229d2-3eaa-4777-be7d-2777c4c9b5a0",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "81",
@@ -760,9 +765,10 @@
         "artist": "Nduduzo Makhathini",
         "title": "uNomkhubulwane",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9333f41c-4dd7-4757-a70f-e80b33986699"
+        "listens": "1",
+        "id": "9333f41c-4dd7-4757-a70f-e80b33986699",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "83",
@@ -806,18 +812,20 @@
         "artist": "Yasmin Williams",
         "title": "Acadia",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "163b4513-8d68-4927-94de-bf9ea717e66d"
+        "listens": "1",
+        "id": "163b4513-8d68-4927-94de-bf9ea717e66d",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "88",
         "artist": "Caxtrinho",
         "title": "Queda livre",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "e765d282-49c3-4edd-a7fa-d94af8e79828"
+        "listens": "1",
+        "id": "e765d282-49c3-4edd-a7fa-d94af8e79828",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "89",
@@ -834,9 +842,10 @@
         "artist": "Kacey Musgraves",
         "title": "Deeper Well",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "676cbcdc-98b4-453d-8ade-8bdb417d7509"
+        "listens": "1",
+        "id": "676cbcdc-98b4-453d-8ade-8bdb417d7509",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "91",
@@ -893,9 +902,10 @@
         "artist": "Nil\u00fcfer Yanya",
         "title": "My Method Actor",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9c613d8e-eb84-45d9-b248-3a430fea1729"
+        "listens": "1",
+        "id": "9c613d8e-eb84-45d9-b248-3a430fea1729",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "97",
@@ -922,9 +932,10 @@
         "artist": "SML",
         "title": "Small Medium Large",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "13a9f8bf-8043-45b0-a696-170a3519cfa0"
+        "listens": "1",
+        "id": "13a9f8bf-8043-45b0-a696-170a3519cfa0",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "100",
@@ -997,9 +1008,10 @@
         "artist": "Ador\u00e1vel Clich\u00ea",
         "title": "sonhos que nunca morrem",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "5647ec48-d143-49b1-bda6-83316b390e98"
+        "listens": "1",
+        "id": "5647ec48-d143-49b1-bda6-83316b390e98",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "108",
@@ -1024,18 +1036,20 @@
         "artist": "Daudi Matsiko",
         "title": "The King of Misery",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "3bf3d5bf-ad53-4dbb-9fe5-87f4ed16e300"
+        "listens": "1",
+        "id": "3bf3d5bf-ad53-4dbb-9fe5-87f4ed16e300",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "111",
         "artist": "GENDEMA",
         "title": "sassy things",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "2dba52b3-9e23-4b92-b660-8242c5b77992"
+        "listens": "1",
+        "id": "2dba52b3-9e23-4b92-b660-8242c5b77992",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "112",
@@ -1211,9 +1225,10 @@
         "artist": "CVN",
         "title": "Xeno",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "4da8b024-e2ba-433f-add2-d9c92785f909"
+        "listens": "1",
+        "id": "4da8b024-e2ba-433f-add2-d9c92785f909",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "131",
@@ -1238,18 +1253,20 @@
         "artist": "Rog\u00ea",
         "title": "Curyman II",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "fe88ed2d-06b5-4545-8917-c560f947bb9e"
+        "listens": "1",
+        "id": "fe88ed2d-06b5-4545-8917-c560f947bb9e",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "134",
         "artist": "Caoilfhionn Rose",
         "title": "Constellation",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "09259062-1491-407b-8bdf-e1c294bfcc5d"
+        "listens": "1",
+        "id": "09259062-1491-407b-8bdf-e1c294bfcc5d",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "135",
@@ -1265,9 +1282,10 @@
         "artist": "UTO",
         "title": "When all you want to do is be the fire part of fire",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "4501d4b0-9891-4526-9fe4-7c2850b46335"
+        "listens": "1",
+        "id": "4501d4b0-9891-4526-9fe4-7c2850b46335",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "137",
@@ -1294,9 +1312,10 @@
         "artist": "Gracie Abrams",
         "title": "The Secret of Us",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "497975d5-179e-4088-8d78-f47847097752"
+        "listens": "1",
+        "id": "497975d5-179e-4088-8d78-f47847097752",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "140",
@@ -1350,9 +1369,10 @@
         "artist": "Svaneborg Kardyb",
         "title": "Superkilen",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9f8d571a-654a-4f42-a0a4-ebaf7dc15c05"
+        "listens": "1",
+        "id": "9f8d571a-654a-4f42-a0a4-ebaf7dc15c05",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "146",
@@ -1368,9 +1388,10 @@
         "artist": "La Luz",
         "title": "News of the Universe",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "675fd24a-9398-4de9-b6c0-ded72bc9a3bd"
+        "listens": "1",
+        "id": "675fd24a-9398-4de9-b6c0-ded72bc9a3bd",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "148",
@@ -1489,9 +1510,10 @@
         "artist": "Reyna Tropical",
         "title": "Malegr\u00eda",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "ec474ebc-5887-4811-a31c-5cf3edd126b5"
+        "listens": "1",
+        "id": "ec474ebc-5887-4811-a31c-5cf3edd126b5",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "161",
@@ -1507,9 +1529,10 @@
         "artist": "Rosali",
         "title": "Bite Down",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9e64f5a7-baa6-4c9e-b873-6ecb4e9c8219"
+        "listens": "1",
+        "id": "9e64f5a7-baa6-4c9e-b873-6ecb4e9c8219",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "163",
@@ -1526,18 +1549,20 @@
         "artist": "Dummy",
         "title": "Free Energy",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "0c9d7425-fbba-4fa0-abbe-9c69e9991538"
+        "listens": "1",
+        "id": "0c9d7425-fbba-4fa0-abbe-9c69e9991538",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "165",
         "artist": "Previous Industries",
         "title": "Service Merchandise",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "4b9a4eba-59a9-4228-b5b1-e7efff43e68f"
+        "listens": "1",
+        "id": "4b9a4eba-59a9-4228-b5b1-e7efff43e68f",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "166",
@@ -1590,9 +1615,10 @@
         "artist": "Kl\u00f4 Pelgag",
         "title": "Abracadabra",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "df550314-ab5b-49cc-9013-fb4f958b2bac"
+        "listens": "1",
+        "id": "df550314-ab5b-49cc-9013-fb4f958b2bac",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "172",
@@ -1608,27 +1634,30 @@
         "artist": "Kendrick Lamar",
         "title": "GNX",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "e2294650-047d-4fbf-9997-5f480a41f202"
+        "listens": "1",
+        "id": "e2294650-047d-4fbf-9997-5f480a41f202",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "174",
         "artist": "Mount Eerie",
         "title": "Night Palace",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "d71fd182-d6a0-4746-91da-f284e51d0fb7"
+        "listens": "1",
+        "id": "d71fd182-d6a0-4746-91da-f284e51d0fb7",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "175",
         "artist": "Dua Saleh",
         "title": "I Should Call Them",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "bbe37013-0210-49d9-a8d0-017e8f8d48ea"
+        "listens": "1",
+        "id": "bbe37013-0210-49d9-a8d0-017e8f8d48ea",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "176",
@@ -1645,9 +1674,10 @@
         "artist": "Helado Negro",
         "title": "PHASOR",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "faf8f967-ea99-4be6-ba49-68f2e67f930c"
+        "listens": "1",
+        "id": "faf8f967-ea99-4be6-ba49-68f2e67f930c",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "178",
@@ -1663,18 +1693,20 @@
         "artist": "Winged Wheel",
         "title": "Big Hotel",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9c467569-b71e-479a-9898-2d4e5b1b51f6"
+        "listens": "1",
+        "id": "9c467569-b71e-479a-9898-2d4e5b1b51f6",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "180",
         "artist": "Violent Magic Orchestra",
         "title": "Death Rave",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9cd1dd55-253b-4451-a757-3c5bdadd4d1d"
+        "listens": "1",
+        "id": "9cd1dd55-253b-4451-a757-3c5bdadd4d1d",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "181",
@@ -1690,9 +1722,10 @@
         "artist": "Alice Russell",
         "title": "I Am",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "5cfa4a65-ca4e-465b-b285-9e567a7d57fb"
+        "listens": "1",
+        "id": "5cfa4a65-ca4e-465b-b285-9e567a7d57fb",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "183",
@@ -1717,18 +1750,20 @@
         "artist": "Fontaines D.C.",
         "title": "Romance",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "65d761e8-fbda-4971-878c-2a6bdab3a0c3"
+        "listens": "1",
+        "id": "65d761e8-fbda-4971-878c-2a6bdab3a0c3",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "186",
         "artist": "Mount Kimbie",
         "title": "The Sunset Violent",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "0814039e-0a20-4c7a-b5e2-47f7eb34917c"
+        "listens": "1",
+        "id": "0814039e-0a20-4c7a-b5e2-47f7eb34917c",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "187",
@@ -1754,9 +1789,10 @@
         "artist": "Sabrina Carpenter",
         "title": "Short n' Sweet",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "d454e147-afab-46bd-864c-698c40e8a29c"
+        "listens": "1",
+        "id": "d454e147-afab-46bd-864c-698c40e8a29c",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "190",
@@ -1772,9 +1808,10 @@
         "artist": "bassvictim",
         "title": "Basspunk",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "200574bc-4ce7-4bc0-957b-f48435134d0f"
+        "listens": "1",
+        "id": "200574bc-4ce7-4bc0-957b-f48435134d0f",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "192",
@@ -1846,18 +1883,20 @@
         "artist": "Mary Timony",
         "title": "Untame the Tiger",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "a15fbe50-3db3-4889-96ca-93d35dd8ad30"
+        "listens": "1",
+        "id": "a15fbe50-3db3-4889-96ca-93d35dd8ad30",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "200",
         "artist": "Machine Girl",
         "title": "MG Ultra",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9b878585-3a94-40c7-ad5b-387f440d587a"
+        "listens": "1",
+        "id": "9b878585-3a94-40c7-ad5b-387f440d587a",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "201",
@@ -1882,9 +1921,10 @@
         "artist": "Blood Incantation",
         "title": "Absolute Elsewhere",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "d1748f4c-c4e9-4ccd-96ff-fa0375474e92"
+        "listens": "1",
+        "id": "d1748f4c-c4e9-4ccd-96ff-fa0375474e92",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "204",
@@ -1900,9 +1940,10 @@
         "artist": "SLIFT",
         "title": "Ilion",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "60a9ae5f-a870-42d6-83a2-0e4d2c5838e7"
+        "listens": "1",
+        "id": "60a9ae5f-a870-42d6-83a2-0e4d2c5838e7",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "206",
@@ -1928,9 +1969,10 @@
         "artist": "Julie Christmas",
         "title": "Ridiculous And Full Of Blood",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "a7615b4e-00dd-4c48-a65b-2967063496c0"
+        "listens": "1",
+        "id": "a7615b4e-00dd-4c48-a65b-2967063496c0",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "209",
@@ -1955,9 +1997,10 @@
         "artist": "Keanu Nelson",
         "title": "Wilurarrakutu",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "f050ae68-2377-4622-919b-2020edc5902c"
+        "listens": "1",
+        "id": "f050ae68-2377-4622-919b-2020edc5902c",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "212",
@@ -1992,9 +2035,10 @@
         "artist": "Sam Morton",
         "title": "Daffodils & Dirt",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "7f3608a8-27a4-4706-99cf-b0de4dc3ac74"
+        "listens": "1",
+        "id": "7f3608a8-27a4-4706-99cf-b0de4dc3ac74",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "216",
@@ -2046,18 +2090,20 @@
         "artist": "TAAHLIAH",
         "title": "Gramarye",
         "rating": "2",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "e8a7e91d-7601-42d4-b132-b97e298c3a83"
+        "listens": "1",
+        "id": "e8a7e91d-7601-42d4-b132-b97e298c3a83",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "222",
         "artist": "Caribou",
         "title": "Honey",
         "rating": "2",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "bd229996-b32d-4abc-ad0d-fec64625fde5"
+        "listens": "1",
+        "id": "bd229996-b32d-4abc-ad0d-fec64625fde5",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "223",
@@ -2082,8 +2128,9 @@
         "artist": "Ratigan Era",
         "title": "Era",
         "rating": "2",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "052e6fa3-330b-4454-bb0d-fb00f64d25c6"
+        "listens": "1",
+        "id": "052e6fa3-330b-4454-bb0d-fb00f64d25c6",
+        "image": false,
+        "rated_at": "16-02-2025"
     }
 ]

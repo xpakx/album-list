@@ -15,19 +15,19 @@
         "title": "Minyo Samcheonri 1 <Our Folk Song Loved by the Public> by Seo EuiChul GaDan",
         "rating": "7",
         "listens": "4",
-        "rated_at": "16-02-2025",
         "id": null,
-        "image": false
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "3",
         "artist": "Lina Tullgren",
         "title": "Decide Which Way The Eyes Are Looking",
         "rating": "7",
-        "listens": "",
-        "rated_at": "16-02-2025",
+        "listens": "1",
         "id": "d2008f9f-6f95-4295-a7ca-1cf013b68571",
-        "image": true
+        "image": true,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "4",
@@ -45,9 +45,9 @@
         "title": "Serene Demon",
         "rating": "6",
         "listens": "7",
-        "rated_at": "16-02-2025",
         "id": "cedc7ccf-cd5f-4cdb-b7a8-d0c65b0d004d",
-        "image": true
+        "image": true,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "6",
@@ -114,27 +114,30 @@
         "artist": "Ambrose Akinmusire",
         "title": "Honey From a Winter Stone",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "f3e5a3c4-df45-4b89-9fc1-83ee2af12eba"
+        "listens": "1",
+        "id": "f3e5a3c4-df45-4b89-9fc1-83ee2af12eba",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "13",
         "artist": "Lou-Adriane Cassidy",
         "title": "Journal d'un Loup-Garou",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "69cfc432-d41a-4c20-aa2a-e8f684d1b65f"
+        "listens": "1",
+        "id": "69cfc432-d41a-4c20-aa2a-e8f684d1b65f",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "14",
         "artist": "Squid",
         "title": "Cowards",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "0e2b30ca-0b22-4acb-b724-efb5206c2fe0"
+        "listens": "1",
+        "id": "0e2b30ca-0b22-4acb-b724-efb5206c2fe0",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "15",
@@ -151,9 +154,10 @@
         "artist": "Helen Ganya",
         "title": "Share Your Care",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "3507a6f6-b811-483d-91f2-fb520d580ae3"
+        "listens": "1",
+        "id": "3507a6f6-b811-483d-91f2-fb520d580ae3",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "17",
@@ -170,27 +174,30 @@
         "artist": "Samba Tour\u00e9",
         "title": "Baarakelaw",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "9f936dc1-35d3-468a-91ff-fd2cf43f19da"
+        "listens": "1",
+        "id": "9f936dc1-35d3-468a-91ff-fd2cf43f19da",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "19",
         "artist": "Creepy Nuts",
         "title": "LEGION",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "3605489c-bad1-4766-92f5-0be8a4e1a18a"
+        "listens": "1",
+        "id": "3605489c-bad1-4766-92f5-0be8a4e1a18a",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "20",
         "artist": "Elizabeth A. Carver",
         "title": "The Cart Before The Horse",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "8ae95393-d8fa-4b7e-bfff-657d792bb67c"
+        "listens": "1",
+        "id": "8ae95393-d8fa-4b7e-bfff-657d792bb67c",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "21",
@@ -207,9 +214,10 @@
         "artist": "Xin Lie",
         "title": "Xin Lie",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": null
+        "listens": "1",
+        "id": null,
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "23",
@@ -226,9 +234,10 @@
         "artist": "Open Head",
         "title": "What Is Success",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "c0e16775-45dd-4fff-aa56-0d9e37a786e4"
+        "listens": "1",
+        "id": "c0e16775-45dd-4fff-aa56-0d9e37a786e4",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "25",
@@ -295,18 +304,20 @@
         "artist": "Fabio Mina",
         "title": "Existence / Resistance",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": null
+        "listens": "1",
+        "id": null,
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "32",
         "artist": "White Paddy Mountain",
         "title": "Lucid Dreams",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "64c12350-68f5-4df8-8a5f-932470f9bda5"
+        "listens": "1",
+        "id": "64c12350-68f5-4df8-8a5f-932470f9bda5",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "33",
@@ -323,9 +334,10 @@
         "artist": "Elsa Hewitt",
         "title": "Dominant Heartstrings",
         "rating": "5",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "4153f9b8-d5b5-49fb-ba39-7ef97828e94d"
+        "listens": "1",
+        "id": "4153f9b8-d5b5-49fb-ba39-7ef97828e94d",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "35",
@@ -362,9 +374,10 @@
         "artist": "Eddie Chacon",
         "title": "Lay Low",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "e1705c9d-1632-448f-a235-5be2b891b7cd"
+        "listens": "1",
+        "id": "e1705c9d-1632-448f-a235-5be2b891b7cd",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "39",
@@ -381,18 +394,20 @@
         "artist": "Minnie [\ubbfc\ub2c8]",
         "title": "HER",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "e2d05f8a-2b24-46fe-97ec-ee8b2b61d62a"
+        "listens": "1",
+        "id": "e2d05f8a-2b24-46fe-97ec-ee8b2b61d62a",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "41",
         "artist": "Richard Sallis",
         "title": "Felix",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "83c54011-9ea7-4072-8548-7ccf5b8f8119"
+        "listens": "1",
+        "id": "83c54011-9ea7-4072-8548-7ccf5b8f8119",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "42",
@@ -459,9 +474,10 @@
         "artist": "C\u00f3clea / Canut de Bon",
         "title": "No esperan por nadie",
         "rating": "4",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "4600ce7c-3d4b-4ce2-8ad3-359b240fdedb"
+        "listens": "1",
+        "id": "4600ce7c-3d4b-4ce2-8ad3-359b240fdedb",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "49",
@@ -528,9 +544,10 @@
         "artist": "A BAD DAY",
         "title": "flawed",
         "rating": "3",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "474d4059-9c1e-4557-b9b5-ce5964f438ae"
+        "listens": "1",
+        "id": "474d4059-9c1e-4557-b9b5-ce5964f438ae",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "56",
@@ -597,9 +614,10 @@
         "artist": "Ada Rook",
         "title": "UNKILLABLE ANGEL",
         "rating": "2",
-        "listens": "",
-        "rated_at": "16-02-2025",
-        "id": "8666caea-7136-4b0f-a5ab-c4b47a39358f"
+        "listens": "1",
+        "id": "8666caea-7136-4b0f-a5ab-c4b47a39358f",
+        "image": false,
+        "rated_at": "16-02-2025"
     },
     {
         "number": "63",
