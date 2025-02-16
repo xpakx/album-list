@@ -474,5 +474,349 @@
         "from": "8",
         "to": "7",
         "date": "02-02-2025"
+    },
+    {
+        "artist": "Shane Parish",
+        "title": "Repertoire",
+        "type": "rating",
+        "from": "6",
+        "to": "7",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Half Empty Glasshouse",
+        "title": "The Exit is Over There!",
+        "type": "new",
+        "to": "7",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Antonina Car & Niczos",
+        "title": "To\u0144",
+        "type": "new",
+        "to": "6",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Nala Sinephro",
+        "title": "Endlessness",
+        "type": "new",
+        "to": "6",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Meaningful Stone [\uae40\ub73b\ub3cc]",
+        "title": "Angel Interview",
+        "type": "new",
+        "to": "6",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Akini Jing",
+        "title": "Villain",
+        "type": "new",
+        "to": "6",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Nils \u00d8kland Band",
+        "title": "Gjenskinn",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Nduduzo Makhathini",
+        "title": "uNomkhubulwane",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Yasmin Williams",
+        "title": "Acadia",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Caxtrinho",
+        "title": "Queda livre",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Kacey Musgraves",
+        "title": "Deeper Well",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Nil\u00fcfer Yanya",
+        "title": "My Method Actor",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "SML",
+        "title": "Small Medium Large",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Ador\u00e1vel Clich\u00ea",
+        "title": "sonhos que nunca morrem",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Daudi Matsiko",
+        "title": "The King of Misery",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "GENDEMA",
+        "title": "sassy things",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "CVN",
+        "title": "Xeno",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Rog\u00ea",
+        "title": "Curyman II",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Caoilfhionn Rose",
+        "title": "Constellation",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "UTO",
+        "title": "When all you want to do is be the fire part of fire",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Gracie Abrams",
+        "title": "The Secret of Us",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Svaneborg Kardyb",
+        "title": "Superkilen",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "La Luz",
+        "title": "News of the Universe",
+        "type": "new",
+        "to": "5",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Reyna Tropical",
+        "title": "Malegr\u00eda",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Rosali",
+        "title": "Bite Down",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Dummy",
+        "title": "Free Energy",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Previous Industries",
+        "title": "Service Merchandise",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Kl\u00f4 Pelgag",
+        "title": "Abracadabra",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "title": "GNX",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Mount Eerie",
+        "title": "Night Palace",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Dua Saleh",
+        "title": "I Should Call Them",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Helado Negro",
+        "title": "PHASOR",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Winged Wheel",
+        "title": "Big Hotel",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Violent Magic Orchestra",
+        "title": "Death Rave",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Alice Russell",
+        "title": "I Am",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Fontaines D.C.",
+        "title": "Romance",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Mount Kimbie",
+        "title": "The Sunset Violent",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Sabrina Carpenter",
+        "title": "Short n' Sweet",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "bassvictim",
+        "title": "Basspunk",
+        "type": "new",
+        "to": "4",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Mary Timony",
+        "title": "Untame the Tiger",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Machine Girl",
+        "title": "MG Ultra",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Blood Incantation",
+        "title": "Absolute Elsewhere",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "SLIFT",
+        "title": "Ilion",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Julie Christmas",
+        "title": "Ridiculous And Full Of Blood",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Keanu Nelson",
+        "title": "Wilurarrakutu",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Sam Morton",
+        "title": "Daffodils & Dirt",
+        "type": "new",
+        "to": "3",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "TAAHLIAH",
+        "title": "Gramarye",
+        "type": "new",
+        "to": "2",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Caribou",
+        "title": "Honey",
+        "type": "new",
+        "to": "2",
+        "date": "16-02-2025"
+    },
+    {
+        "artist": "Ratigan Era",
+        "title": "Era",
+        "type": "new",
+        "to": "2",
+        "date": "16-02-2025"
     }
 ]
