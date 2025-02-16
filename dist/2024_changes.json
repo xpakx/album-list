@@ -818,5 +818,13 @@
         "type": "new",
         "to": "2",
         "date": "16-02-2025"
+    },
+    {
+        "artist": "Shane Parish",
+        "title": "Repertoire",
+        "type": "rating",
+        "from": "7",
+        "to": "6",
+        "date": "16-02-2025"
     }
 ]
