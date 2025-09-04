@@ -4,67 +4,119 @@
 #+title: Albumy 2025
 
 * Odsłuchane
-1. FKA Twigs — Eusexua [7/10] (12)
-2. SEO EuiChul Ga_Dan — Minyo Samcheonri 1 <Our Folk Song Loved by the Public> by Seo EuiChul GaDan [7/10] (4)
-3. Lina Tullgren — Decide Which Way The Eyes Are Looking [7/10]?
-4. Anna B Savage — You & I Are Earth [6/10]
-5. Art d'Ecco — Serene Demon [6/10] (7)
-6. Songhoy Blues — Héritage [6/10] (2)
-7. Ale Hop & Titi Bakorta — Mapambazuko [6/10]↑
-8. Rose Gray — Louder, Please [6/10] (6)
-9. Bridget Hayden — Cold Blows the Rain [6/10]?
-10. Crochet — Cherish [6/10]?
-11. Shinsei Kamattechan — Danchi Thesis [6/10]
-12. Ambrose Akinmusire — Honey From a Winter Stone [5/10]
-13. Lou-Adriane Cassidy — Journal d'un Loup-Garou [5/10]
-14. Squid — Cowards [5/10] RELISTEN
-15. Maddie Jay — I Can Change Your Mind [5/10]↑?
-16. Helen Ganya — Share Your Care [5/10]
-17. Ela Minus — D​Í​A [5/10]↑
-18. Samba Touré — Baarakelaw [5/10]
-19. Creepy Nuts — LEGION [5/10]
-20. Elizabeth A. Carver — The Cart Before The Horse [5/10]
-21. Blue Lake — Weft [5/10]
-22. Xin Lie — Xin Lie [5/10]
-23. Moonchild Sanelly — Full Moon [5/10]↑↑ RELISTEN
-24. Open Head — What Is Success [5/10]
-25. The Weeknd — Hurry Up Tomorrow [5/10]
-26. Franz Ferdinand — The Human Fear [5/10]
-27. Joya Marleen — the wind is picking up [5/10]
-28. Alessi Rose — for your validation [5/10]
-29. Shedfromthebody — Whisper and Wane [5/10]
-30. The Weather Station — Humanhood [5/10]
-31. Fabio Mina — Existence / Resistance [5/10]
-32. White Paddy Mountain — Lucid Dreams [5/10]
-33. Matt Berry — Heard Noises [5/10]
-34. Elsa Hewitt — Dominant Heartstrings [5/10]
-35. Myriad Myriads — All The Hits [5/10]
-36. RoRo — Hot Hits [5/10]?
-37. Nia Narudata — Still Living With My Parents [4/10]
-38. Eddie Chacon — Lay Low [4/10]
-39. Legendary Pink Dots — So Lonely In Heaven [4/10]
-40. Minnie [민니] — HER [4/10]
-41. Richard Sallis — Felix [4/10]
-42. Rob Goraieb — Antenna [4/10]
-43. moribet — So, Ho Hum [4/10]
-44. Geowulf — The Child [4/10]
-45. Ayumi Ishito — Roboquarians, Vol. 2 [4/10]
-46. Quinton Barnes — Code Noir [4/10]
-47. Zach Phillips — True Music [4/10]
-48. Cóclea / Canut de Bon — No esperan por nadie [4/10]
-49. Vilhelm Buchaus — Quiet Rooms [4/10]
-50. Victoria Canal - Slowly, It Dawns [4/10]
-51. Bad Bunny — Debí tirar más fotos [4/10]?
-52. Lambrini Girls — Who Let The Dogs Out [4/10]
-53. Matthewdavid — 100% Zithertronics [3/10]
-54. Ethel Cain — Perverts [3/10]
-55. A BAD DAY — flawed [3/10]
-56. Asian Glow — 11100011 [3/10]
-57. good flying birds — talulah's tape [3/10]
-58. Willow Avalon — Southern Belle Raisin' Hell [3/10]
-59. Tigress — Are You B-O-R-E-D? [3/10]
-60. jasmine.4.t — You Are The Morning [3/10]
-61. Kaho Matsui — Absolver, Kill Me While My Eyes Are Closed [3/10]
-62. Ada Rook — UNKILLABLE ANGEL [2/10]
-63. Dina Summer — Girls Gang [2/10]
-64. Ringo Starr — Look Up [2/10]
+1. Zhang Xingchan [张醒婵] — No，now！[7/10] (5)
+2. Myra Melford with Michael Formanek and Ches Smith — Myra Melford Splash [7/10] (3)
+3. FKA Twigs — Eusexua [7/10] (12)
+4. Park Jiha —  All Living Things [7/10]
+5. SEO EuiChul Ga_Dan — Minyo Samcheonri 1 <Our Folk Song Loved by the Public> by Seo EuiChul GaDan [7/10] (4)
+6. staraya derevnya — Garden window escape [7/10] (3)
+7. Natalia Lafourcade — Cancionera [7/10]
+8. Artificial Go — Musical Chairs [7/10]??? (5)
+9. Lina Tullgren — Decide Which Way The Eyes Are Looking [7/10]? (6)
+10. Ninajirachi — I Love My Computer [6/10]↑↑↑ (2)
+11. Gingerbee — Apiary [6/10]↑↑↑↑
+12. Jim Ghedi - Wasteland [6/10]???
+13. Anna B Savage — You & I Are Earth [6/10]
+14. Niechęć — Reckless Things [6/10]
+15. Lido Pimienta — La Belleza [6/10]↑↑?
+16. Art d'Ecco — Serene Demon [6/10] (7)
+17. Elkotsh — RHLT JDI [6/10]
+18. Marina Sena - Coisas Naturais  [6/10]↑↑↑? (2)
+19. Songhoy Blues — Héritage [6/10] (2)
+20. Sparks — MAD! [6/10]↑? (2)
+21. Nadah El Shazly — Laini Tani [6/10] (5) RELISTEN
+22. Ken Pomeroy — Cruel Joke [6/10] (4)
+23. Ale Hop & Titi Bakorta — Mapambazuko [6/10]↑
+24. Stein Urheim — Speilstillevariasjoner [6/10]↑↑??? (1)
+25. Nazar — Demilitarize [6/10] (2)
+26. Rose Gray — Louder, Please [6/10] (6)
+27. Marshall Allen — New Dawn [6/10]
+28. Bridget Hayden — Cold Blows the Rain [6/10]?
+29. Crochet — Cherish [6/10]?
+30. Shinsei Kamattechan — Danchi Thesis [6/10]
+31. Pink Siifu — BLACK’!ANTIQUE [6/10] (2)
+32. AMMAR 808 — Club Tounsi [5/10]
+33. Seu Jorge — Baile à la baiana [5/10] (3) RELISTEN
+34. Saya Gray — Saya [5/10]
+35. aya — hexed! [5/10]
+36. KUUNATIC — Wheels of Ömon [5/10]
+37. Maria Somerville — Luster [5/10]↑↑? (2)
+38. Ty Segall — Possession [5/10]
+39. Brigid Mae Power — Songs for You [5/10]
+40. Stereolab — Instant Holograms On Metal Film [5/10]
+41. Ambrose Akinmusire — Honey From a Winter Stone [5/10]
+42. Hesse Kassel — La Brea [5/10]
+43. DJ Koze — Music Can Hear Us [5/10]
+44. Lou-Adriane Cassidy — Journal d'un Loup-Garou [5/10]
+45. Eliana Glass — E [5/10] (2)
+46. Squid — Cowards [5/10] RELISTEN
+47. Maddie Jay — I Can Change Your Mind [5/10]↑?
+48. Helen Ganya — Share Your Care [5/10]
+49. Marie Davidson — City Of Clowns [5/10]
+50. Ela Minus — D​Í​A [5/10]↑
+51. Samba Touré — Baarakelaw [5/10]
+52. Creepy Nuts — LEGION [5/10]
+53. Kuunatic — Wheels of Ömon [5/10]
+54. Moskito — Idolar [5/10]
+55. Tanika Charles — Reasons To Stay [5/10]
+56. Salin — Rammana [5/10]
+57. Elizabeth A. Carver — The Cart Before The Horse [5/10]
+58. Blue Lake — Weft [5/10]
+59. Xin Lie — Xin Lie [5/10]
+60. Moonchild Sanelly — Full Moon [5/10]↑↑ RELISTEN
+61. Open Head — What Is Success [5/10]
+62. Hooveriii — Manhunter [5/10]
+63. The Weeknd — Hurry Up Tomorrow [5/10]
+64. Franz Ferdinand — The Human Fear [5/10]
+65. Joya Marleen — the wind is picking up [5/10]
+66. Alessi Rose — for your validation [5/10]
+67. Shedfromthebody — Whisper and Wane [5/10]
+68. The Weather Station — Humanhood [5/10]
+69. Fabio Mina — Existence / Resistance [5/10]
+70. White Paddy Mountain — Lucid Dreams [5/10]
+71. Matt Berry — Heard Noises [5/10]
+72. Elsa Hewitt — Dominant Heartstrings [5/10]
+73. QUINQUIS — eor [5/10]↑↑ RELISTEN
+74. Myriad Myriads — All The Hits [5/10]
+75. RoRo — Hot Hits [5/10]?
+76. Nia Narudata — Still Living With My Parents [4/10]
+77. Japanese Breakfast — For Melancholy Brunettes (& sad women) [4/10]
+78. Kazdoura — Ghoyoum غيوم [4/10]
+79. Eddie Chacon — Lay Low [4/10]
+80. Legendary Pink Dots — So Lonely In Heaven [4/10]
+81. Minnie [민니] — HER [4/10]
+82. Chicarica — Invierno en la playa [4/10]
+83. Richard Sallis — Felix [4/10]
+84. Kali Uchis - Sincerely, [4/10]
+85. Rob Goraieb — Antenna [4/10]
+86. moribet — So, Ho Hum [4/10]
+87. Geowulf — The Child [4/10]
+88. Ayumi Ishito — Roboquarians, Vol. 2 [4/10]
+89. Quinton Barnes — Code Noir [4/10]
+90. Zach Phillips — True Music [4/10]
+91. Ronia — Starflower [4/10]
+92. caroline — caroline 2 [4/10]
+93. Circuit des Yeux — Halo On The Inside [4/10]
+94. Cóclea / Canut de Bon — No esperan por nadie [4/10]
+95. Vilhelm Buchaus — Quiet Rooms [4/10]
+96. Victoria Canal - Slowly, It Dawns [4/10]
+97. Now — Now Does The Trick [4/10]
+98. Bad Bunny — Debí tirar más fotos [4/10]?
+99. Lambrini Girls — Who Let The Dogs Out [4/10]
+100. Matthewdavid — 100% Zithertronics [3/10]
+101. Ethel Cain — Perverts [3/10]
+102. Rebecca Black — SALVATION [3/10]
+103. A BAD DAY — flawed [3/10]
+104. Asian Glow — 11100011 [3/10]
+105. good flying birds — talulah's tape [3/10]
+106. Willow Avalon — Southern Belle Raisin' Hell [3/10]
+107. Tigress — Are You B-O-R-E-D? [3/10]
+108. jasmine.4.t — You Are The Morning [3/10]
+109. Perfume Genius — Glory [3/10]
+110. JENNIE — Ruby [3/10]
+111. Kaho Matsui — Absolver, Kill Me While My Eyes Are Closed [3/10]
+112. Sleep Token — Even In Arcadia [3/10]
+113. Ada Rook — UNKILLABLE ANGEL [2/10]
+114. Dina Summer — Girls Gang [2/10]
+115. Ringo Starr — Look Up [2/10]
+116. ameokama — I Will Be Clouds in the Morning and Rain in the Evening [2/10]
