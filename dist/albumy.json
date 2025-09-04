@@ -1,6 +1,16 @@
 [
     {
-        "number": "1",
+        "number": "2",
+        "artist": "Myra Melford with Michael Formanek and Ches Smith",
+        "title": "Myra Melford Splash",
+        "rating": "7",
+        "listens": "3",
+        "rated_at": "04-09-2025",
+        "id": "fd3ddd7e-a9d7-40fd-95d0-8d42d5f95c86",
+        "image": true
+    },
+    {
+        "number": "3",
         "artist": "FKA Twigs",
         "title": "Eusexua",
         "rating": "7",
@@ -10,7 +20,17 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "2",
+        "number": "4",
+        "artist": "Park Jiha",
+        "title": " All Living Things",
+        "rating": "7",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "c9d6532a-d144-482a-978c-1900d037c1cf",
+        "image": true
+    },
+    {
+        "number": "5",
         "artist": "SEO EuiChul Ga_Dan",
         "title": "Minyo Samcheonri 1 <Our Folk Song Loved by the Public> by Seo EuiChul GaDan",
         "rating": "7",
@@ -20,17 +40,77 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "3",
+        "number": "6",
+        "artist": "staraya derevnya",
+        "title": "Garden window escape",
+        "rating": "7",
+        "listens": "3",
+        "rated_at": "04-09-2025",
+        "id": "0e57207e-31e2-42bb-81b6-6fabd8fffcba",
+        "image": true
+    },
+    {
+        "number": "7",
+        "artist": "Natalia Lafourcade",
+        "title": "Cancionera",
+        "rating": "7",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "b7dcc22c-c553-412d-8caf-f73fa525bd10",
+        "image": true
+    },
+    {
+        "number": "8",
+        "artist": "Artificial Go",
+        "title": "Musical Chairs",
+        "rating": "7",
+        "listens": "5",
+        "rated_at": "04-09-2025",
+        "id": "eb9d194e-bd1a-44ae-8b7c-ae701688b6c1",
+        "image": true
+    },
+    {
+        "number": "9",
         "artist": "Lina Tullgren",
         "title": "Decide Which Way The Eyes Are Looking",
         "rating": "7",
-        "listens": "1",
+        "listens": "6",
         "id": "d2008f9f-6f95-4295-a7ca-1cf013b68571",
         "image": true,
         "rated_at": "16-02-2025"
     },
     {
-        "number": "4",
+        "number": "10",
+        "artist": "Ninajirachi",
+        "title": "I Love My Computer",
+        "rating": "6",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "fc8bf81b-babb-47fe-99fc-841c1abfeb7c",
+        "image": true
+    },
+    {
+        "number": "11",
+        "artist": "Gingerbee",
+        "title": "Apiary",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "78b9d06e-6361-4657-a186-a95a93de027e",
+        "image": true
+    },
+    {
+        "number": "12",
+        "artist": "Jim Ghedi",
+        "title": "Wasteland",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "2f28728f-e9f3-4804-b554-8921774c7f1a",
+        "image": true
+    },
+    {
+        "number": "13",
         "artist": "Anna B Savage",
         "title": "You & I Are Earth",
         "rating": "6",
@@ -40,7 +120,27 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "5",
+        "number": "14",
+        "artist": "Niech\u0119\u0107",
+        "title": "Reckless Things",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "b1f2ed3d-1ff2-4a55-9a6b-b67a96c38e8e",
+        "image": true
+    },
+    {
+        "number": "15",
+        "artist": "Lido Pimienta",
+        "title": "La Belleza",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "e71d1bbe-88dc-43cf-be0d-8ce20a913c59",
+        "image": true
+    },
+    {
+        "number": "16",
         "artist": "Art d'Ecco",
         "title": "Serene Demon",
         "rating": "6",
@@ -50,7 +150,27 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "6",
+        "number": "17",
+        "artist": "Elkotsh",
+        "title": "RHLT JDI",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "18a8a64d-65bc-416f-9ef1-22f3b3b63104",
+        "image": true
+    },
+    {
+        "number": "18",
+        "artist": "Marina Sena",
+        "title": "Coisas Naturais ",
+        "rating": "6",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "19235b02-1fb7-480c-9908-a0e9129d79dc",
+        "image": true
+    },
+    {
+        "number": "19",
         "artist": "Songhoy Blues",
         "title": "H\u00e9ritage",
         "rating": "6",
@@ -60,7 +180,37 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "7",
+        "number": "20",
+        "artist": "Sparks",
+        "title": "MAD!",
+        "rating": "6",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "b488c40c-695d-4996-a522-9ff0184b297a",
+        "image": true
+    },
+    {
+        "number": "21",
+        "artist": "Nadah El Shazly",
+        "title": "Laini Tani",
+        "rating": "6",
+        "listens": "5",
+        "rated_at": "04-09-2025",
+        "id": "53abfb31-6f8d-44a4-8360-23bdfb295f76",
+        "image": true
+    },
+    {
+        "number": "22",
+        "artist": "Ken Pomeroy",
+        "title": "Cruel Joke",
+        "rating": "6",
+        "listens": "4",
+        "rated_at": "04-09-2025",
+        "id": "e410044e-0e1d-4edd-b8cf-4bab9628747e",
+        "image": true
+    },
+    {
+        "number": "23",
         "artist": "Ale Hop & Titi Bakorta",
         "title": "Mapambazuko",
         "rating": "6",
@@ -70,7 +220,27 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "8",
+        "number": "24",
+        "artist": "Stein Urheim",
+        "title": "Speilstillevariasjoner",
+        "rating": "6",
+        "listens": "1",
+        "rated_at": "04-09-2025",
+        "id": "f1b87497-57ad-4ab5-97aa-4491c4c61da6",
+        "image": false
+    },
+    {
+        "number": "25",
+        "artist": "Nazar",
+        "title": "Demilitarize",
+        "rating": "6",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "20c8bec3-72eb-4a12-87f4-11a191868c01",
+        "image": true
+    },
+    {
+        "number": "26",
         "artist": "Rose Gray",
         "title": "Louder, Please",
         "rating": "6",
@@ -80,7 +250,17 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "9",
+        "number": "27",
+        "artist": "Marshall Allen",
+        "title": "New Dawn",
+        "rating": "6",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "426c0881-da30-4384-b354-8fa9a90837d0",
+        "image": false
+    },
+    {
+        "number": "28",
         "artist": "Bridget Hayden",
         "title": "Cold Blows the Rain",
         "rating": "6",
@@ -90,7 +270,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "10",
+        "number": "29",
         "artist": "Crochet",
         "title": "Cherish",
         "rating": "6",
@@ -100,7 +280,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "11",
+        "number": "30",
         "artist": "Shinsei Kamattechan",
         "title": "Danchi Thesis",
         "rating": "6",
@@ -110,7 +290,97 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "12",
+        "number": "31",
+        "artist": "Pink Siifu",
+        "title": "BLACK\u2019!ANTIQUE",
+        "rating": "6",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "0ab02505-82ea-4a10-9f25-2c8c350e9404"
+    },
+    {
+        "number": "32",
+        "artist": "AMMAR 808",
+        "title": "Club Tounsi",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "20c69fab-685d-40bd-843d-674a9973a040"
+    },
+    {
+        "number": "33",
+        "artist": "Seu Jorge",
+        "title": "Baile \u00e0 la baiana",
+        "rating": "5",
+        "listens": "3",
+        "rated_at": "04-09-2025",
+        "id": "a0aaee8a-1c90-48c0-b916-621d8295534d"
+    },
+    {
+        "number": "34",
+        "artist": "Saya Gray",
+        "title": "Saya",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "393a6c10-d4a0-476a-8ebe-c98a240ce474"
+    },
+    {
+        "number": "35",
+        "artist": "aya",
+        "title": "hexed!",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "a12c340f-2a2d-4ce3-86ab-9be62a64a2b6"
+    },
+    {
+        "number": "36",
+        "artist": "KUUNATIC",
+        "title": "Wheels of \u00d6mon",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "bb3a169b-e2aa-41e6-9105-b9a06f128208"
+    },
+    {
+        "number": "37",
+        "artist": "Maria Somerville",
+        "title": "Luster",
+        "rating": "5",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "4b876273-876a-4bd6-ae41-1c5455d4bfd4"
+    },
+    {
+        "number": "38",
+        "artist": "Ty Segall",
+        "title": "Possession",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "d6553d28-6f48-4f82-958e-3379a5133736"
+    },
+    {
+        "number": "39",
+        "artist": "Brigid Mae Power",
+        "title": "Songs for You",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "b5b9705c-8a2c-435e-8bb6-2340adf993ff"
+    },
+    {
+        "number": "40",
+        "artist": "Stereolab",
+        "title": "Instant Holograms On Metal Film",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "7c344079-3661-40ed-87b4-9aa54b1d02fd"
+    },
+    {
+        "number": "41",
         "artist": "Ambrose Akinmusire",
         "title": "Honey From a Winter Stone",
         "rating": "5",
@@ -120,7 +390,25 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "13",
+        "number": "42",
+        "artist": "Hesse Kassel",
+        "title": "La Brea",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "be39e1c2-bb69-45f9-bb9e-0b7b7239a765"
+    },
+    {
+        "number": "43",
+        "artist": "DJ Koze",
+        "title": "Music Can Hear Us",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "2996a6a5-75cf-47f8-93c8-d8d9dae1df03"
+    },
+    {
+        "number": "44",
         "artist": "Lou-Adriane Cassidy",
         "title": "Journal d'un Loup-Garou",
         "rating": "5",
@@ -130,7 +418,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "14",
+        "number": "45",
+        "artist": "Eliana Glass",
+        "title": "E",
+        "rating": "5",
+        "listens": "2",
+        "rated_at": "04-09-2025",
+        "id": "d3c54889-6419-48c1-8d5b-efcc7c5b48f1"
+    },
+    {
+        "number": "46",
         "artist": "Squid",
         "title": "Cowards",
         "rating": "5",
@@ -140,7 +437,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "15",
+        "number": "47",
         "artist": "Maddie Jay",
         "title": "I Can Change Your Mind",
         "rating": "5",
@@ -150,7 +447,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "16",
+        "number": "48",
         "artist": "Helen Ganya",
         "title": "Share Your Care",
         "rating": "5",
@@ -160,7 +457,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "17",
+        "number": "49",
+        "artist": "Marie Davidson",
+        "title": "City Of Clowns",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "87ed2462-3ba6-499d-ad00-0994f78e66a3"
+    },
+    {
+        "number": "50",
         "artist": "Ela Minus",
         "title": "D\u200b\u00cd\u200bA",
         "rating": "5",
@@ -170,7 +476,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "18",
+        "number": "51",
         "artist": "Samba Tour\u00e9",
         "title": "Baarakelaw",
         "rating": "5",
@@ -180,7 +486,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "19",
+        "number": "52",
         "artist": "Creepy Nuts",
         "title": "LEGION",
         "rating": "5",
@@ -190,7 +496,43 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "20",
+        "number": "53",
+        "artist": "Kuunatic",
+        "title": "Wheels of \u00d6mon",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "bb3a169b-e2aa-41e6-9105-b9a06f128208"
+    },
+    {
+        "number": "54",
+        "artist": "Moskito",
+        "title": "Idolar",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "a4b54f5d-55cd-45b0-b4ce-f95985405a32"
+    },
+    {
+        "number": "55",
+        "artist": "Tanika Charles",
+        "title": "Reasons To Stay",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "39accfea-1c30-4a2c-a017-94532fa74be7"
+    },
+    {
+        "number": "56",
+        "artist": "Salin",
+        "title": "Rammana",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "45a2405e-5f9c-4b2e-9e8a-5c0a368d1d8d"
+    },
+    {
+        "number": "57",
         "artist": "Elizabeth A. Carver",
         "title": "The Cart Before The Horse",
         "rating": "5",
@@ -200,7 +542,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "21",
+        "number": "58",
         "artist": "Blue Lake",
         "title": "Weft",
         "rating": "5",
@@ -210,7 +552,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "22",
+        "number": "59",
         "artist": "Xin Lie",
         "title": "Xin Lie",
         "rating": "5",
@@ -220,7 +562,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "23",
+        "number": "60",
         "artist": "Moonchild Sanelly",
         "title": "Full Moon",
         "rating": "5",
@@ -230,7 +572,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "24",
+        "number": "61",
         "artist": "Open Head",
         "title": "What Is Success",
         "rating": "5",
@@ -240,7 +582,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "25",
+        "number": "62",
+        "artist": "Hooveriii",
+        "title": "Manhunter",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "42872197-4149-425b-aeae-0e698a2a0ecc"
+    },
+    {
+        "number": "63",
         "artist": "The Weeknd",
         "title": "Hurry Up Tomorrow",
         "rating": "5",
@@ -250,7 +601,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "26",
+        "number": "64",
         "artist": "Franz Ferdinand",
         "title": "The Human Fear",
         "rating": "5",
@@ -260,7 +611,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "27",
+        "number": "65",
         "artist": "Joya Marleen",
         "title": "the wind is picking up",
         "rating": "5",
@@ -270,7 +621,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "28",
+        "number": "66",
         "artist": "Alessi Rose",
         "title": "for your validation",
         "rating": "5",
@@ -280,7 +631,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "29",
+        "number": "67",
         "artist": "Shedfromthebody",
         "title": "Whisper and Wane",
         "rating": "5",
@@ -290,7 +641,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "30",
+        "number": "68",
         "artist": "The Weather Station",
         "title": "Humanhood",
         "rating": "5",
@@ -300,7 +651,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "31",
+        "number": "69",
         "artist": "Fabio Mina",
         "title": "Existence / Resistance",
         "rating": "5",
@@ -310,7 +661,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "32",
+        "number": "70",
         "artist": "White Paddy Mountain",
         "title": "Lucid Dreams",
         "rating": "5",
@@ -320,7 +671,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "33",
+        "number": "71",
         "artist": "Matt Berry",
         "title": "Heard Noises",
         "rating": "5",
@@ -330,7 +681,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "34",
+        "number": "72",
         "artist": "Elsa Hewitt",
         "title": "Dominant Heartstrings",
         "rating": "5",
@@ -340,7 +691,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "35",
+        "number": "73",
+        "artist": "QUINQUIS",
+        "title": "eor",
+        "rating": "5",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "ebe33d4e-fe67-41e4-b62e-5a7828df591e"
+    },
+    {
+        "number": "74",
         "artist": "Myriad Myriads",
         "title": "All The Hits",
         "rating": "5",
@@ -350,7 +710,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "36",
+        "number": "75",
         "artist": "RoRo",
         "title": "Hot Hits",
         "rating": "5",
@@ -360,7 +720,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "37",
+        "number": "76",
         "artist": "Nia Narudata",
         "title": "Still Living With My Parents",
         "rating": "4",
@@ -370,7 +730,25 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "38",
+        "number": "77",
+        "artist": "Japanese Breakfast",
+        "title": "For Melancholy Brunettes (& sad women)",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "633e433b-b0e8-4b55-ba52-d0b2f601a0c8"
+    },
+    {
+        "number": "78",
+        "artist": "Kazdoura",
+        "title": "Ghoyoum \u063a\u064a\u0648\u0645",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "d1e1213f-4be3-459d-b8f3-47e3e78a63b2"
+    },
+    {
+        "number": "79",
         "artist": "Eddie Chacon",
         "title": "Lay Low",
         "rating": "4",
@@ -380,7 +758,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "39",
+        "number": "80",
         "artist": "Legendary Pink Dots",
         "title": "So Lonely In Heaven",
         "rating": "4",
@@ -390,7 +768,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "40",
+        "number": "81",
         "artist": "Minnie [\ubbfc\ub2c8]",
         "title": "HER",
         "rating": "4",
@@ -400,7 +778,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "41",
+        "number": "82",
+        "artist": "Chicarica",
+        "title": "Invierno en la playa",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "b8214e87-cefa-499d-9bb3-13f22dfff5d6"
+    },
+    {
+        "number": "83",
         "artist": "Richard Sallis",
         "title": "Felix",
         "rating": "4",
@@ -410,7 +797,16 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "42",
+        "number": "84",
+        "artist": "Kali Uchis",
+        "title": "Sincerely,",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "66ba6803-c216-4295-be81-4f88fcfa5086"
+    },
+    {
+        "number": "85",
         "artist": "Rob Goraieb",
         "title": "Antenna",
         "rating": "4",
@@ -420,7 +816,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "43",
+        "number": "86",
         "artist": "moribet",
         "title": "So, Ho Hum",
         "rating": "4",
@@ -430,7 +826,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "44",
+        "number": "87",
         "artist": "Geowulf",
         "title": "The Child",
         "rating": "4",
@@ -440,7 +836,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "45",
+        "number": "88",
         "artist": "Ayumi Ishito",
         "title": "Roboquarians, Vol. 2",
         "rating": "4",
@@ -450,7 +846,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "46",
+        "number": "89",
         "artist": "Quinton Barnes",
         "title": "Code Noir",
         "rating": "4",
@@ -460,7 +856,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "47",
+        "number": "90",
         "artist": "Zach Phillips",
         "title": "True Music",
         "rating": "4",
@@ -470,7 +866,34 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "48",
+        "number": "91",
+        "artist": "Ronia",
+        "title": "Starflower",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "7798f20c-7af7-43de-98ca-e6d5bf384c66"
+    },
+    {
+        "number": "92",
+        "artist": "caroline",
+        "title": "caroline 2",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "37e4e0ad-ffd5-4a28-b40b-89cebcb98daa"
+    },
+    {
+        "number": "93",
+        "artist": "Circuit des Yeux",
+        "title": "Halo On The Inside",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "9bfdfbcc-dd7b-4f5e-8f29-6afa97e61272"
+    },
+    {
+        "number": "94",
         "artist": "C\u00f3clea / Canut de Bon",
         "title": "No esperan por nadie",
         "rating": "4",
@@ -480,7 +903,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "49",
+        "number": "95",
         "artist": "Vilhelm Buchaus",
         "title": "Quiet Rooms",
         "rating": "4",
@@ -490,7 +913,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "50",
+        "number": "96",
         "artist": "Victoria Canal",
         "title": "Slowly, It Dawns",
         "rating": "4",
@@ -500,7 +923,16 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "51",
+        "number": "97",
+        "artist": "Now",
+        "title": "Now Does The Trick",
+        "rating": "4",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "b58277b4-a925-4e63-aa88-8fc958f9e9dd"
+    },
+    {
+        "number": "98",
         "artist": "Bad Bunny",
         "title": "Deb\u00ed tirar m\u00e1s fotos",
         "rating": "4",
@@ -510,7 +942,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "52",
+        "number": "99",
         "artist": "Lambrini Girls",
         "title": "Who Let The Dogs Out",
         "rating": "4",
@@ -520,7 +952,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "53",
+        "number": "100",
         "artist": "Matthewdavid",
         "title": "100% Zithertronics",
         "rating": "3",
@@ -530,7 +962,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "54",
+        "number": "101",
         "artist": "Ethel Cain",
         "title": "Perverts",
         "rating": "3",
@@ -540,7 +972,16 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "55",
+        "number": "102",
+        "artist": "Rebecca Black",
+        "title": "SALVATION",
+        "rating": "3",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "059df238-4e0f-4022-a0d5-a0711394bf34"
+    },
+    {
+        "number": "103",
         "artist": "A BAD DAY",
         "title": "flawed",
         "rating": "3",
@@ -550,7 +991,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "56",
+        "number": "104",
         "artist": "Asian Glow",
         "title": "11100011",
         "rating": "3",
@@ -560,7 +1001,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "57",
+        "number": "105",
         "artist": "good flying birds",
         "title": "talulah's tape",
         "rating": "3",
@@ -570,7 +1011,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "58",
+        "number": "106",
         "artist": "Willow Avalon",
         "title": "Southern Belle Raisin' Hell",
         "rating": "3",
@@ -580,7 +1021,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "59",
+        "number": "107",
         "artist": "Tigress",
         "title": "Are You B-O-R-E-D?",
         "rating": "3",
@@ -590,7 +1031,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "60",
+        "number": "108",
         "artist": "jasmine.4.t",
         "title": "You Are The Morning",
         "rating": "3",
@@ -600,7 +1041,25 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "61",
+        "number": "109",
+        "artist": "Perfume Genius",
+        "title": "Glory",
+        "rating": "3",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "988db66e-eea7-45c6-8774-1663d3e36fd1"
+    },
+    {
+        "number": "110",
+        "artist": "JENNIE",
+        "title": "Ruby",
+        "rating": "3",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "2c283314-071c-4bf9-bce2-b73bfe2f8754"
+    },
+    {
+        "number": "111",
         "artist": "Kaho Matsui",
         "title": "Absolver, Kill Me While My Eyes Are Closed",
         "rating": "3",
@@ -610,7 +1069,16 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "62",
+        "number": "112",
+        "artist": "Sleep Token",
+        "title": "Even In Arcadia",
+        "rating": "3",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": "6d367cbf-d7d5-4689-8744-2ab3770e2e39"
+    },
+    {
+        "number": "113",
         "artist": "Ada Rook",
         "title": "UNKILLABLE ANGEL",
         "rating": "2",
@@ -620,7 +1088,7 @@
         "rated_at": "16-02-2025"
     },
     {
-        "number": "63",
+        "number": "114",
         "artist": "Dina Summer",
         "title": "Girls Gang",
         "rating": "2",
@@ -630,7 +1098,7 @@
         "rated_at": "02-02-2025"
     },
     {
-        "number": "64",
+        "number": "115",
         "artist": "Ringo Starr",
         "title": "Look Up",
         "rating": "2",
@@ -638,5 +1106,14 @@
         "id": "f5a1ef21-5bb8-497a-8d54-c2d655d71f17",
         "image": false,
         "rated_at": "02-02-2025"
+    },
+    {
+        "number": "116",
+        "artist": "ameokama",
+        "title": "I Will Be Clouds in the Morning and Rain in the Evening",
+        "rating": "2",
+        "listens": "",
+        "rated_at": "04-09-2025",
+        "id": null
     }
 ]
